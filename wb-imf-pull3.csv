@@ -1,0 +1,1201 @@
+key,country,measure,year,world bank value,imf value,world bank rounded,difference,status
+ARE|gdp growth|2010,ARE,gdp growth,2010,1.60285004336325,7.9,1.6,-6.3,mismatch
+ARE|gdp growth|2011,ARE,gdp growth,2011,6.73651167897515,6.7,6.7,0.0,match
+ARE|gdp growth|2012,ARE,gdp growth,2012,4.68325642918792,4.7,4.7,0.0,match
+ARE|gdp growth|2013,ARE,gdp growth,2013,4.9184505919085,4.9,4.9,0.0,match
+ARE|gdp growth|2014,ARE,gdp growth,2014,4.63291785879667,4.6,4.6,0.0,match
+ARE|gdp growth|2015,ARE,gdp growth,2015,7.08766622657654,7.1,7.1,0.0,match
+ARE|gdp growth|2016,ARE,gdp growth,2016,5.65790147196586,5.7,5.7,0.0,match
+ARE|gdp growth|2017,ARE,gdp growth,2017,-1.06137114472548,-1.1,-1.1,0.0,match
+ARE|gdp growth|2018,ARE,gdp growth,2018,1.53720634021511,1.5,1.5,0.0,match
+ARE|gdp growth|2019,ARE,gdp growth,2019,1.27129120536284,1.3,1.3,0.0,match
+ARE|gdp growth|2020,ARE,gdp growth,2020,-8.69343363776639,-8.7,-8.7,0.0,match
+ARE|gdp growth|2021,ARE,gdp growth,2021,4.55280140106356,4.6,4.6,0.0,match
+ARE|gdp growth|2022,ARE,gdp growth,2022,7.51452414254605,7.5,7.5,0.0,match
+ARE|gdp growth|2023,ARE,gdp growth,2023,4.30113648499413,4.3,4.3,0.0,match
+ARE|gdp growth|2024,ARE,gdp growth,2024,3.99181200361831,6.6,4.0,-2.6,mismatch
+ARE|inflation|2010,ARE,inflation,2010,0.877983288285867,0.9,0.9,0.0,match
+ARE|inflation|2011,ARE,inflation,2011,0.87734659568512,0.9,0.9,0.0,match
+ARE|inflation|2012,ARE,inflation,2012,0.662268900269008,0.7,0.7,0.0,match
+ARE|inflation|2013,ARE,inflation,2013,1.1011183637571,1.1,1.1,0.0,match
+ARE|inflation|2014,ARE,inflation,2014,2.34626865671642,2.3,2.3,0.0,match
+ARE|inflation|2015,ARE,inflation,2015,4.06996608361593,4.1,4.1,0.0,match
+ARE|inflation|2016,ARE,inflation,2016,1.61748808904197,1.6,1.6,0.0,match
+ARE|inflation|2017,ARE,inflation,2017,1.96682557818842,2,2.0,0.0,match
+ARE|inflation|2018,ARE,inflation,2018,3.06863379251996,3.1,3.1,0.0,match
+ARE|inflation|2019,ARE,inflation,2019,-1.93108114782172,-1.9,-1.9,0.0,match
+ARE|inflation|2020,ARE,inflation,2020,-2.07940317940943,-2.1,-2.1,0.0,match
+ARE|inflation|2021,ARE,inflation,2021,0.179935336174431,-0.1,0.2,0.3,match
+ARE|inflation|2022,ARE,inflation,2022,5.29122604376849,4.8,5.3,0.5,match
+ARE|inflation|2023,ARE,inflation,2023,1.62670837213248,1.6,1.6,0.0,match
+ARE|inflation|2024,ARE,inflation,2024,1.66336510224894,1.7,1.7,0.0,match
+BGD|gdp growth|2010,BGD,gdp growth,2010,5.57178818533122,5.6,5.6,0.0,match
+BGD|gdp growth|2011,BGD,gdp growth,2011,6.46437912497728,6.5,6.5,0.0,match
+BGD|gdp growth|2012,BGD,gdp growth,2012,6.52145877906443,6.5,6.5,0.0,match
+BGD|gdp growth|2013,BGD,gdp growth,2013,6.01360565834344,6,6.0,0.0,match
+BGD|gdp growth|2014,BGD,gdp growth,2014,6.0610593588495,6.1,6.1,0.0,match
+BGD|gdp growth|2015,BGD,gdp growth,2015,6.55263987816197,6.6,6.6,0.0,match
+BGD|gdp growth|2016,BGD,gdp growth,2016,7.11347821270093,7.1,7.1,0.0,match
+BGD|gdp growth|2017,BGD,gdp growth,2017,6.59024999794057,6.6,6.6,0.0,match
+BGD|gdp growth|2018,BGD,gdp growth,2018,7.31941263014136,7.3,7.3,0.0,match
+BGD|gdp growth|2019,BGD,gdp growth,2019,7.88191515117722,7.9,7.9,0.0,match
+BGD|gdp growth|2020,BGD,gdp growth,2020,3.44801755122445,3.4,3.4,0.0,match
+BGD|gdp growth|2021,BGD,gdp growth,2021,6.93867912442445,6.9,6.9,0.0,match
+BGD|gdp growth|2022,BGD,gdp growth,2022,7.09982877575158,7.1,7.1,0.0,match
+BGD|gdp growth|2023,BGD,gdp growth,2023,5.77511237007889,5.8,5.8,0.0,match
+BGD|gdp growth|2024,BGD,gdp growth,2024,4.22325911250161,4.2,4.2,0.0,match
+BGD|inflation|2010,BGD,inflation,2010,8.12667639169917,7.3,8.1,0.8,mismatch
+BGD|inflation|2011,BGD,inflation,2011,11.3951651552399,8.8,11.4,2.6,mismatch
+BGD|inflation|2012,BGD,inflation,2012,6.21750422069283,8.9,6.2,-2.7,mismatch
+BGD|inflation|2013,BGD,inflation,2013,7.53040640913172,6.8,7.5,0.7,mismatch
+BGD|inflation|2014,BGD,inflation,2014,6.99163889220848,7.3,7.0,-0.3,match
+BGD|inflation|2015,BGD,inflation,2015,6.19428022984983,6.4,6.2,-0.2,match
+BGD|inflation|2016,BGD,inflation,2016,5.51352572692995,5.9,5.5,-0.4,match
+BGD|inflation|2017,BGD,inflation,2017,5.70207015717238,5.4,5.7,0.3,match
+BGD|inflation|2018,BGD,inflation,2018,5.54362139486476,5.8,5.5,-0.3,match
+BGD|inflation|2019,BGD,inflation,2019,5.59199639930629,5.5,5.6,0.1,match
+BGD|inflation|2020,BGD,inflation,2020,5.69107474746211,5.6,5.7,0.1,match
+BGD|inflation|2021,BGD,inflation,2021,5.54565430773473,5.6,5.5,-0.1,match
+BGD|inflation|2022,BGD,inflation,2022,7.69695437176898,6.1,7.7,1.6,mismatch
+BGD|inflation|2023,BGD,inflation,2023,9.8835030377921,9,9.9,0.9,mismatch
+BGD|inflation|2024,BGD,inflation,2024,10.4657482763412,9.7,10.5,0.8,mismatch
+BGR|gdp growth|2010,BGR,gdp growth,2010,1.55536266288017,1.6,1.6,0.0,match
+BGR|gdp growth|2011,BGR,gdp growth,2011,2.09017598337418,2.1,2.1,0.0,match
+BGR|gdp growth|2012,BGR,gdp growth,2012,0.748814556346105,0.7,0.7,0.0,match
+BGR|gdp growth|2013,BGR,gdp growth,2013,-0.542753400392826,-0.5,-0.5,0.0,match
+BGR|gdp growth|2014,BGR,gdp growth,2014,0.949449772002041,0.9,0.9,0.0,match
+BGR|gdp growth|2015,BGR,gdp growth,2015,3.39755351999294,3.4,3.4,0.0,match
+BGR|gdp growth|2016,BGR,gdp growth,2016,3.02662820096305,3,3.0,0.0,match
+BGR|gdp growth|2017,BGR,gdp growth,2017,2.74592737750996,2.7,2.7,0.0,match
+BGR|gdp growth|2018,BGR,gdp growth,2018,2.33015054210419,2.3,2.3,0.0,match
+BGR|gdp growth|2019,BGR,gdp growth,2019,3.79331964589196,3.8,3.8,0.0,match
+BGR|gdp growth|2020,BGR,gdp growth,2020,-3.13323543125917,-3.1,-3.1,0.0,match
+BGR|gdp growth|2021,BGR,gdp growth,2021,7.82817310703665,7.8,7.8,0.0,match
+BGR|gdp growth|2022,BGR,gdp growth,2022,4.08386398118941,4.1,4.1,0.0,match
+BGR|gdp growth|2023,BGR,gdp growth,2023,1.68151075832925,1.7,1.7,0.0,match
+BGR|gdp growth|2024,BGR,gdp growth,2024,3.38708962009333,3.4,3.4,0.0,match
+BGR|inflation|2010,BGR,inflation,2010,2.43899060504117,3,2.4,-0.6,mismatch
+BGR|inflation|2011,BGR,inflation,2011,4.21990346601872,3.4,4.2,0.8,mismatch
+BGR|inflation|2012,BGR,inflation,2012,2.95456829831012,2.4,3.0,0.6,mismatch
+BGR|inflation|2013,BGR,inflation,2013,0.890093540913096,0.4,0.9,0.5,match
+BGR|inflation|2014,BGR,inflation,2014,-1.41818380264839,-1.6,-1.4,0.2,match
+BGR|inflation|2015,BGR,inflation,2015,-0.104633261008479,-1.1,-0.1,1.0,mismatch
+BGR|inflation|2016,BGR,inflation,2016,-0.798649886453617,-1.3,-0.8,0.5,match
+BGR|inflation|2017,BGR,inflation,2017,2.06159619443141,1.2,2.1,0.9,mismatch
+BGR|inflation|2018,BGR,inflation,2018,2.81454473824838,2.6,2.8,0.2,match
+BGR|inflation|2019,BGR,inflation,2019,3.10372944796771,2.5,3.1,0.6,mismatch
+BGR|inflation|2020,BGR,inflation,2020,1.67244096855756,1.2,1.7,0.5,match
+BGR|inflation|2021,BGR,inflation,2021,3.29774435299506,2.8,3.3,0.5,match
+BGR|inflation|2022,BGR,inflation,2022,15.3252589264367,13,15.3,2.3,mismatch
+BGR|inflation|2023,BGR,inflation,2023,9.44284140088564,8.6,9.4,0.8,mismatch
+BGR|inflation|2024,BGR,inflation,2024,2.44651943006078,2.6,2.4,-0.2,match
+BOL|gdp growth|2010,BOL,gdp growth,2010,4.12672258996274,4.5,4.1,-0.4,match
+BOL|gdp growth|2011,BOL,gdp growth,2011,5.20409245282328,5.5,5.2,-0.3,match
+BOL|gdp growth|2012,BOL,gdp growth,2012,5.12227560125973,5.5,5.1,-0.4,match
+BOL|gdp growth|2013,BOL,gdp growth,2013,6.79601141268498,7.1,6.8,-0.3,match
+BOL|gdp growth|2014,BOL,gdp growth,2014,5.46056949136766,5.8,5.5,-0.3,match
+BOL|gdp growth|2015,BOL,gdp growth,2015,4.85718718508603,4.9,4.9,0.0,match
+BOL|gdp growth|2016,BOL,gdp growth,2016,4.26392086992173,4.3,4.3,0.0,match
+BOL|gdp growth|2017,BOL,gdp growth,2017,4.19520633364647,4.2,4.2,0.0,match
+BOL|gdp growth|2018,BOL,gdp growth,2018,2.86808404814794,2.9,2.9,0.0,match
+BOL|gdp growth|2019,BOL,gdp growth,2019,1.50672102666863,1.5,1.5,0.0,match
+BOL|gdp growth|2020,BOL,gdp growth,2020,-12.7194690092717,-12.7,-12.7,0.0,match
+BOL|gdp growth|2021,BOL,gdp growth,2021,10.0290488827886,10,10.0,0.0,match
+BOL|gdp growth|2022,BOL,gdp growth,2022,3.74741781241461,3.7,3.7,0.0,match
+BOL|gdp growth|2023,BOL,gdp growth,2023,2.51636590154891,2.5,2.5,0.0,match
+BOL|gdp growth|2024,BOL,gdp growth,2024,-1.12335595517212,-1.1,-1.1,0.0,match
+BOL|inflation|2010,BOL,inflation,2010,2.5032760584424,2.5,2.5,0.0,match
+BOL|inflation|2011,BOL,inflation,2011,9.88446419823883,9.9,9.9,0.0,match
+BOL|inflation|2012,BOL,inflation,2012,4.51560291399375,4.5,4.5,0.0,match
+BOL|inflation|2013,BOL,inflation,2013,5.73640023719606,5.7,5.7,0.0,match
+BOL|inflation|2014,BOL,inflation,2014,5.76660074579143,5.8,5.8,0.0,match
+BOL|inflation|2015,BOL,inflation,2015,4.05961041135644,4.1,4.1,0.0,match
+BOL|inflation|2016,BOL,inflation,2016,3.62321431764138,3.6,3.6,0.0,match
+BOL|inflation|2017,BOL,inflation,2017,2.8227580554717,2.8,2.8,0.0,match
+BOL|inflation|2018,BOL,inflation,2018,2.27205987230154,2.3,2.3,0.0,match
+BOL|inflation|2019,BOL,inflation,2019,1.83954504969025,1.8,1.8,0.0,match
+BOL|inflation|2020,BOL,inflation,2020,0.940742153381849,0.9,0.9,0.0,match
+BOL|inflation|2021,BOL,inflation,2021,0.737383721452274,0.7,0.7,0.0,match
+BOL|inflation|2022,BOL,inflation,2022,1.74632872945968,1.7,1.7,0.0,match
+BOL|inflation|2023,BOL,inflation,2023,2.57688800489192,2.6,2.6,0.0,match
+BOL|inflation|2024,BOL,inflation,2024,5.09976568317427,5.1,5.1,0.0,match
+CIV|gdp growth|2010,CIV,gdp growth,2010,6.84804939907013,2,6.8,4.8,mismatch
+CIV|gdp growth|2011,CIV,gdp growth,2011,-5.37044724000579,-4.9,-5.4,-0.5,match
+CIV|gdp growth|2012,CIV,gdp growth,2012,7.62041176451649,10.9,7.6,-3.3,mismatch
+CIV|gdp growth|2013,CIV,gdp growth,2013,10.7602131311256,9.3,10.8,1.5,mismatch
+CIV|gdp growth|2014,CIV,gdp growth,2014,9.37199994240375,8.8,9.4,0.6,mismatch
+CIV|gdp growth|2015,CIV,gdp growth,2015,7.19494942728191,8.8,7.2,-1.6,mismatch
+CIV|gdp growth|2016,CIV,gdp growth,2016,7.17275963956332,7.2,7.2,0.0,match
+CIV|gdp growth|2017,CIV,gdp growth,2017,7.41076242592504,7.4,7.4,0.0,match
+CIV|gdp growth|2018,CIV,gdp growth,2018,4.84314605889178,4.8,4.8,0.0,match
+CIV|gdp growth|2019,CIV,gdp growth,2019,6.72137167584978,6.7,6.7,0.0,match
+CIV|gdp growth|2020,CIV,gdp growth,2020,0.699728593494228,0.7,0.7,0.0,match
+CIV|gdp growth|2021,CIV,gdp growth,2021,7.06253713446816,7.1,7.1,0.0,match
+CIV|gdp growth|2022,CIV,gdp growth,2022,6.39988362730921,6.4,6.4,0.0,match
+CIV|gdp growth|2023,CIV,gdp growth,2023,6.60000045209176,6.6,6.6,0.0,match
+CIV|gdp growth|2024,CIV,gdp growth,2024,6.0195346193922,6,6.0,0.0,match
+CIV|inflation|2010,CIV,inflation,2010,1.22645612135479,1.8,1.2,-0.6,mismatch
+CIV|inflation|2011,CIV,inflation,2011,4.9124339505245,4.9,4.9,0.0,match
+CIV|inflation|2012,CIV,inflation,2012,1.30451119915606,1.3,1.3,0.0,match
+CIV|inflation|2013,CIV,inflation,2013,2.58117037252935,2.6,2.6,0.0,match
+CIV|inflation|2014,CIV,inflation,2014,0.448682076766141,0.5,0.4,-0.1,match
+CIV|inflation|2015,CIV,inflation,2015,1.25149954781467,1.1,1.3,0.2,match
+CIV|inflation|2016,CIV,inflation,2016,0.723178457513308,0.8,0.7,-0.1,match
+CIV|inflation|2017,CIV,inflation,2017,0.685881065304603,0.7,0.7,0.0,match
+CIV|inflation|2018,CIV,inflation,2018,0.401297817263547,0.6,0.4,-0.2,match
+CIV|inflation|2019,CIV,inflation,2019,0.79085551205366,0.8,0.8,0.0,match
+CIV|inflation|2020,CIV,inflation,2020,2.41252617189052,2.3,2.4,0.1,match
+CIV|inflation|2021,CIV,inflation,2021,4.15919657911797,4.2,4.2,0.0,match
+CIV|inflation|2022,CIV,inflation,2022,5.23352856100842,5.2,5.2,0.0,match
+CIV|inflation|2023,CIV,inflation,2023,4.36972254867474,4.4,4.4,0.0,match
+CIV|inflation|2024,CIV,inflation,2024,3.45053028131018,3.4,3.5,0.1,match
+CMR|gdp growth|2010,CMR,gdp growth,2010,2.89902472122014,2.9,2.9,0.0,match
+CMR|gdp growth|2011,CMR,gdp growth,2011,3.37921128506045,3.4,3.4,0.0,match
+CMR|gdp growth|2012,CMR,gdp growth,2012,4.62597872209571,4.6,4.6,0.0,match
+CMR|gdp growth|2013,CMR,gdp growth,2013,4.99552916130783,5,5.0,0.0,match
+CMR|gdp growth|2014,CMR,gdp growth,2014,5.71981814509198,5.7,5.7,0.0,match
+CMR|gdp growth|2015,CMR,gdp growth,2015,5.66695298703932,5.7,5.7,0.0,match
+CMR|gdp growth|2016,CMR,gdp growth,2016,4.53579423678801,4.5,4.5,0.0,match
+CMR|gdp growth|2017,CMR,gdp growth,2017,3.54117654926007,3.5,3.5,0.0,match
+CMR|gdp growth|2018,CMR,gdp growth,2018,3.95551423892049,4,4.0,0.0,match
+CMR|gdp growth|2019,CMR,gdp growth,2019,3.47505998194981,3.5,3.5,0.0,match
+CMR|gdp growth|2020,CMR,gdp growth,2020,0.259932915907115,0.3,0.3,0.0,match
+CMR|gdp growth|2021,CMR,gdp growth,2021,3.33885747179505,3.3,3.3,0.0,match
+CMR|gdp growth|2022,CMR,gdp growth,2022,3.7367840056412,3.7,3.7,0.0,match
+CMR|gdp growth|2023,CMR,gdp growth,2023,3.34756290750219,3.3,3.3,0.0,match
+CMR|gdp growth|2024,CMR,gdp growth,2024,3.52472308052245,3.5,3.5,0.0,match
+CMR|inflation|2010,CMR,inflation,2010,1.27538046242338,1.3,1.3,0.0,match
+CMR|inflation|2011,CMR,inflation,2011,2.93969946305091,3,2.9,-0.1,match
+CMR|inflation|2012,CMR,inflation,2012,2.73529677529539,2.4,2.7,0.3,match
+CMR|inflation|2013,CMR,inflation,2013,2.0503471800174,2.1,2.1,0.0,match
+CMR|inflation|2014,CMR,inflation,2014,1.85489850366776,1.9,1.9,0.0,match
+CMR|inflation|2015,CMR,inflation,2015,2.67623531419899,2.7,2.7,0.0,match
+CMR|inflation|2016,CMR,inflation,2016,0.874190383288856,0.9,0.9,0.0,match
+CMR|inflation|2017,CMR,inflation,2017,0.64040914988195,0.6,0.6,0.0,match
+CMR|inflation|2018,CMR,inflation,2018,1.0688581131292,1.1,1.1,0.0,match
+CMR|inflation|2019,CMR,inflation,2019,2.45280214062732,2.5,2.5,0.0,match
+CMR|inflation|2020,CMR,inflation,2020,2.43760882182236,2.5,2.4,-0.1,match
+CMR|inflation|2021,CMR,inflation,2021,2.27185762503637,2.3,2.3,0.0,match
+CMR|inflation|2022,CMR,inflation,2022,6.24767713343861,6.3,6.2,-0.1,match
+CMR|inflation|2023,CMR,inflation,2023,7.38281384280983,7.4,7.4,0.0,match
+CMR|inflation|2024,CMR,inflation,2024,4.53331349711606,4.5,4.5,0.0,match
+CRI|gdp growth|2010,CRI,gdp growth,2010,5.36034347722267,5.4,5.4,0.0,match
+CRI|gdp growth|2011,CRI,gdp growth,2011,4.40315921836142,4.4,4.4,0.0,match
+CRI|gdp growth|2012,CRI,gdp growth,2012,4.88259252932575,4.9,4.9,0.0,match
+CRI|gdp growth|2013,CRI,gdp growth,2013,2.49476596233289,2.5,2.5,0.0,match
+CRI|gdp growth|2014,CRI,gdp growth,2014,3.54210997703849,3.5,3.5,0.0,match
+CRI|gdp growth|2015,CRI,gdp growth,2015,3.65208093006359,3.7,3.7,0.0,match
+CRI|gdp growth|2016,CRI,gdp growth,2016,4.20432320775184,4.2,4.2,0.0,match
+CRI|gdp growth|2017,CRI,gdp growth,2017,4.15769914676933,4.2,4.2,0.0,match
+CRI|gdp growth|2018,CRI,gdp growth,2018,2.85285959760458,2.9,2.9,0.0,match
+CRI|gdp growth|2019,CRI,gdp growth,2019,2.70813912948329,2.7,2.7,0.0,match
+CRI|gdp growth|2020,CRI,gdp growth,2020,-4.14159340574358,-4.1,-4.1,0.0,match
+CRI|gdp growth|2021,CRI,gdp growth,2021,8.21817953969082,8.2,8.2,0.0,match
+CRI|gdp growth|2022,CRI,gdp growth,2022,5.46119455235068,5.5,5.5,0.0,match
+CRI|gdp growth|2023,CRI,gdp growth,2023,4.79187732359398,4.8,4.8,0.0,match
+CRI|gdp growth|2024,CRI,gdp growth,2024,4.08292444182048,4.1,4.1,0.0,match
+CRI|inflation|2010,CRI,inflation,2010,5.66275708420021,5.7,5.7,0.0,match
+CRI|inflation|2011,CRI,inflation,2011,4.87799830970702,4.9,4.9,0.0,match
+CRI|inflation|2012,CRI,inflation,2012,4.49545314354605,4.5,4.5,0.0,match
+CRI|inflation|2013,CRI,inflation,2013,5.23133614174428,5.2,5.2,0.0,match
+CRI|inflation|2014,CRI,inflation,2014,4.51920098516953,4.5,4.5,0.0,match
+CRI|inflation|2015,CRI,inflation,2015,0.801982005099623,0.8,0.8,0.0,match
+CRI|inflation|2016,CRI,inflation,2016,-0.0174788505908217,0,0.0,0.0,match
+CRI|inflation|2017,CRI,inflation,2017,1.62590692991731,1.6,1.6,0.0,match
+CRI|inflation|2018,CRI,inflation,2018,2.2211146152658,2.2,2.2,0.0,match
+CRI|inflation|2019,CRI,inflation,2019,2.09604635327807,2.1,2.1,0.0,match
+CRI|inflation|2020,CRI,inflation,2020,0.724911478131375,0.7,0.7,0.0,match
+CRI|inflation|2021,CRI,inflation,2021,1.72647755109241,1.7,1.7,0.0,match
+CRI|inflation|2022,CRI,inflation,2022,8.27477490232654,8.3,8.3,0.0,match
+CRI|inflation|2023,CRI,inflation,2023,0.525193508693455,0.5,0.5,0.0,match
+CRI|inflation|2024,CRI,inflation,2024,-0.412853001047069,-0.4,-0.4,0.0,match
+CZE|gdp growth|2010,CZE,gdp growth,2010,2.71466509907701,2.7,2.7,0.0,match
+CZE|gdp growth|2011,CZE,gdp growth,2011,1.77238085338473,1.8,1.8,0.0,match
+CZE|gdp growth|2012,CZE,gdp growth,2012,-0.770668190622743,-0.8,-0.8,0.0,match
+CZE|gdp growth|2013,CZE,gdp growth,2013,-0.0418124160447491,0,0.0,0.0,match
+CZE|gdp growth|2014,CZE,gdp growth,2014,2.24521219862635,2.2,2.2,0.0,match
+CZE|gdp growth|2015,CZE,gdp growth,2015,4.95875848915604,5,5.0,0.0,match
+CZE|gdp growth|2016,CZE,gdp growth,2016,2.58087013921376,2.6,2.6,0.0,match
+CZE|gdp growth|2017,CZE,gdp growth,2017,5.17356529967881,5.2,5.2,0.0,match
+CZE|gdp growth|2018,CZE,gdp growth,2018,2.83030588267866,2.8,2.8,0.0,match
+CZE|gdp growth|2019,CZE,gdp growth,2019,3.56577658128261,3.6,3.6,0.0,match
+CZE|gdp growth|2020,CZE,gdp growth,2020,-5.30487955463876,-5.3,-5.3,0.0,match
+CZE|gdp growth|2021,CZE,gdp growth,2021,4.02901832055149,4,4.0,0.0,match
+CZE|gdp growth|2022,CZE,gdp growth,2022,2.8471706583814,2.8,2.8,0.0,match
+CZE|gdp growth|2023,CZE,gdp growth,2023,0.0475803308973752,0,0.0,0.0,match
+CZE|gdp growth|2024,CZE,gdp growth,2024,1.25131096245923,1.3,1.3,0.0,match
+CZE|inflation|2010,CZE,inflation,2010,1.47272727272728,1.5,1.5,0.0,match
+CZE|inflation|2011,CZE,inflation,2011,1.9172191363555,1.9,1.9,0.0,match
+CZE|inflation|2012,CZE,inflation,2012,3.28762306610411,3.3,3.3,0.0,match
+CZE|inflation|2013,CZE,inflation,2013,1.4382978723404,1.4,1.4,0.0,match
+CZE|inflation|2014,CZE,inflation,2014,0.343988589646793,0.4,0.3,-0.1,match
+CZE|inflation|2015,CZE,inflation,2015,0.309364548494975,0.3,0.3,0.0,match
+CZE|inflation|2016,CZE,inflation,2016,0.683504209385702,0.6,0.7,0.1,match
+CZE|inflation|2017,CZE,inflation,2017,2.4505339846014,2.4,2.5,0.1,match
+CZE|inflation|2018,CZE,inflation,2018,2.14949494949492,2.2,2.1,-0.1,match
+CZE|inflation|2019,CZE,inflation,2019,2.84787595918041,2.8,2.8,0.0,match
+CZE|inflation|2020,CZE,inflation,2020,3.1612952849781,3.2,3.2,0.0,match
+CZE|inflation|2021,CZE,inflation,2021,3.83984491500146,3.9,3.8,-0.1,match
+CZE|inflation|2022,CZE,inflation,2022,15.100165146837,15.1,15.1,0.0,match
+CZE|inflation|2023,CZE,inflation,2023,10.6612601372427,10.7,10.7,0.0,match
+CZE|inflation|2024,CZE,inflation,2024,2.43531202435314,2.4,2.4,0.0,match
+DNK|gdp growth|2010,DNK,gdp growth,2010,1.58289703108802,1.6,1.6,0.0,match
+DNK|gdp growth|2011,DNK,gdp growth,2011,1.3108037609606,1.3,1.3,0.0,match
+DNK|gdp growth|2012,DNK,gdp growth,2012,-0.00543230161670749,0,0.0,0.0,match
+DNK|gdp growth|2013,DNK,gdp growth,2013,1.39267343161971,1.4,1.4,0.0,match
+DNK|gdp growth|2014,DNK,gdp growth,2014,1.27799983192831,1.3,1.3,0.0,match
+DNK|gdp growth|2015,DNK,gdp growth,2015,2.10441456445301,2.1,2.1,0.0,match
+DNK|gdp growth|2016,DNK,gdp growth,2016,3.07304549209093,3.1,3.1,0.0,match
+DNK|gdp growth|2017,DNK,gdp growth,2017,3.05647723922718,3.1,3.1,0.0,match
+DNK|gdp growth|2018,DNK,gdp growth,2018,1.8600074900921,1.9,1.9,0.0,match
+DNK|gdp growth|2019,DNK,gdp growth,2019,1.71140093932736,1.7,1.7,0.0,match
+DNK|gdp growth|2020,DNK,gdp growth,2020,-1.78010601831291,-1.8,-1.8,0.0,match
+DNK|gdp growth|2021,DNK,gdp growth,2021,6.50025445756295,6.5,6.5,0.0,match
+DNK|gdp growth|2022,DNK,gdp growth,2022,0.443832614908331,0.4,0.4,0.0,match
+DNK|gdp growth|2023,DNK,gdp growth,2023,0.604587766175584,1.1,0.6,-0.5,match
+DNK|gdp growth|2024,DNK,gdp growth,2024,3.47783593140312,3.9,3.5,-0.4,match
+DNK|inflation|2010,DNK,inflation,2010,2.30429013710748,2.2,2.3,0.1,match
+DNK|inflation|2011,DNK,inflation,2011,2.75063767238771,2.7,2.8,0.1,match
+DNK|inflation|2012,DNK,inflation,2012,2.41508798872394,2.3,2.4,0.1,match
+DNK|inflation|2013,DNK,inflation,2013,0.777486776562432,0.5,0.8,0.3,match
+DNK|inflation|2014,DNK,inflation,2014,0.55441185462997,0.3,0.6,0.3,match
+DNK|inflation|2015,DNK,inflation,2015,0.465205845985444,0.2,0.5,0.3,match
+DNK|inflation|2016,DNK,inflation,2016,0.257250945775504,0,0.3,0.3,match
+DNK|inflation|2017,DNK,inflation,2017,1.13704970819079,1.1,1.1,0.0,match
+DNK|inflation|2018,DNK,inflation,2018,0.824793552880295,0.7,0.8,0.1,match
+DNK|inflation|2019,DNK,inflation,2019,0.740090192324771,0.7,0.7,0.0,match
+DNK|inflation|2020,DNK,inflation,2020,0.423160183761248,0.3,0.4,0.1,match
+DNK|inflation|2021,DNK,inflation,2021,1.83962310160841,1.9,1.8,-0.1,match
+DNK|inflation|2022,DNK,inflation,2022,7.70063309931329,8.6,7.7,-0.9,mismatch
+DNK|inflation|2023,DNK,inflation,2023,3.31178243972716,3.4,3.3,-0.1,match
+DNK|inflation|2024,DNK,inflation,2024,1.37986244415555,1.3,1.4,0.1,match
+DOM|gdp growth|2010,DOM,gdp growth,2010,8.40114541209596,8.4,8.4,0.0,match
+DOM|gdp growth|2011,DOM,gdp growth,2011,3.19196227475523,3.2,3.2,0.0,match
+DOM|gdp growth|2012,DOM,gdp growth,2012,2.77567100848816,2.8,2.8,0.0,match
+DOM|gdp growth|2013,DOM,gdp growth,2013,4.93473300709881,4.9,4.9,0.0,match
+DOM|gdp growth|2014,DOM,gdp growth,2014,7.11122629673892,7.1,7.1,0.0,match
+DOM|gdp growth|2015,DOM,gdp growth,2015,6.98771131236387,7,7.0,0.0,match
+DOM|gdp growth|2016,DOM,gdp growth,2016,6.71974078681295,6.7,6.7,0.0,match
+DOM|gdp growth|2017,DOM,gdp growth,2017,3.93386176401576,3.9,3.9,0.0,match
+DOM|gdp growth|2018,DOM,gdp growth,2018,7.09751640210159,7.1,7.1,0.0,match
+DOM|gdp growth|2019,DOM,gdp growth,2019,4.8940301149584,4.9,4.9,0.0,match
+DOM|gdp growth|2020,DOM,gdp growth,2020,-7.92905234231061,-7.9,-7.9,0.0,match
+DOM|gdp growth|2021,DOM,gdp growth,2021,14.0124289062207,14,14.0,0.0,match
+DOM|gdp growth|2022,DOM,gdp growth,2022,5.23795652902595,5.2,5.2,0.0,match
+DOM|gdp growth|2023,DOM,gdp growth,2023,2.19229848237939,2.2,2.2,0.0,match
+DOM|gdp growth|2024,DOM,gdp growth,2024,4.95352204492849,5,5.0,0.0,match
+DOM|inflation|2010,DOM,inflation,2010,6.32993220146146,6.3,6.3,0.0,match
+DOM|inflation|2011,DOM,inflation,2011,5.79676809206533,8.5,5.8,-2.7,mismatch
+DOM|inflation|2012,DOM,inflation,2012,3.69449707884776,3.7,3.7,0.0,match
+DOM|inflation|2013,DOM,inflation,2013,4.830950967408,4.8,4.8,0.0,match
+DOM|inflation|2014,DOM,inflation,2014,2.99864226125218,3,3.0,0.0,match
+DOM|inflation|2015,DOM,inflation,2015,0.836746346724556,0.8,0.8,0.0,match
+DOM|inflation|2016,DOM,inflation,2016,1.61416607245222,1.6,1.6,0.0,match
+DOM|inflation|2017,DOM,inflation,2017,3.27955694678546,3.3,3.3,0.0,match
+DOM|inflation|2018,DOM,inflation,2018,3.56443426013507,3.6,3.6,0.0,match
+DOM|inflation|2019,DOM,inflation,2019,1.81060377042959,1.8,1.8,0.0,match
+DOM|inflation|2020,DOM,inflation,2020,3.78103179915516,3.8,3.8,0.0,match
+DOM|inflation|2021,DOM,inflation,2021,8.24300347981809,8.2,8.2,0.0,match
+DOM|inflation|2022,DOM,inflation,2022,8.81109209279587,8.8,8.8,0.0,match
+DOM|inflation|2023,DOM,inflation,2023,4.78561281021135,4.8,4.8,0.0,match
+DOM|inflation|2024,DOM,inflation,2024,3.30223338951227,3.3,3.3,0.0,match
+DZA|gdp growth|2010,DZA,gdp growth,2010,4.80000000093564,4.8,4.8,0.0,match
+DZA|gdp growth|2011,DZA,gdp growth,2011,2.99999999941909,3,3.0,0.0,match
+DZA|gdp growth|2012,DZA,gdp growth,2012,2.40000000034432,2.4,2.4,0.0,match
+DZA|gdp growth|2013,DZA,gdp growth,2013,2.60000000061164,2.6,2.6,0.0,match
+DZA|gdp growth|2014,DZA,gdp growth,2014,4.09999999866501,4.1,4.1,0.0,match
+DZA|gdp growth|2015,DZA,gdp growth,2015,3.20000000089023,3.2,3.2,0.0,match
+DZA|gdp growth|2016,DZA,gdp growth,2016,3.90000000017621,3.9,3.9,0.0,match
+DZA|gdp growth|2017,DZA,gdp growth,2017,1.49999999895587,1.5,1.5,0.0,match
+DZA|gdp growth|2018,DZA,gdp growth,2018,1.40000000088281,1.4,1.4,0.0,match
+DZA|gdp growth|2019,DZA,gdp growth,2019,0.899999999219148,0.9,0.9,0.0,match
+DZA|gdp growth|2020,DZA,gdp growth,2020,-4.99999999908597,-5,-5.0,0.0,match
+DZA|gdp growth|2021,DZA,gdp growth,2021,3.79999999900707,3.8,3.8,0.0,match
+DZA|gdp growth|2022,DZA,gdp growth,2022,3.60000000094915,3.6,3.6,0.0,match
+DZA|gdp growth|2023,DZA,gdp growth,2023,4.10000000005964,4.1,4.1,0.0,match
+DZA|gdp growth|2024,DZA,gdp growth,2024,3.69999999907979,3.7,3.7,0.0,match
+DZA|inflation|2010,DZA,inflation,2010,3.91106195534028,3.9,3.9,0.0,match
+DZA|inflation|2011,DZA,inflation,2011,4.5242115050527,4.5,4.5,0.0,match
+DZA|inflation|2012,DZA,inflation,2012,8.89145091062317,8.9,8.9,0.0,match
+DZA|inflation|2013,DZA,inflation,2013,3.25423910998847,3.3,3.3,0.0,match
+DZA|inflation|2014,DZA,inflation,2014,2.91692692067458,2.9,2.9,0.0,match
+DZA|inflation|2015,DZA,inflation,2015,4.78444700693889,4.8,4.8,0.0,match
+DZA|inflation|2016,DZA,inflation,2016,6.39769480268756,6.4,6.4,0.0,match
+DZA|inflation|2017,DZA,inflation,2017,5.59111590961663,5.6,5.6,0.0,match
+DZA|inflation|2018,DZA,inflation,2018,4.26999020467083,4.3,4.3,0.0,match
+DZA|inflation|2019,DZA,inflation,2019,1.95176821052891,2,2.0,0.0,match
+DZA|inflation|2020,DZA,inflation,2020,2.41513094083413,2.4,2.4,0.0,match
+DZA|inflation|2021,DZA,inflation,2021,7.22606307415477,7.2,7.2,0.0,match
+DZA|inflation|2022,DZA,inflation,2022,9.26551551551552,9.3,9.3,0.0,match
+DZA|inflation|2023,DZA,inflation,2023,9.32217375928322,9.3,9.3,0.0,match
+DZA|inflation|2024,DZA,inflation,2024,4.04611455313434,4,4.0,0.0,match
+ECU|gdp growth|2010,ECU,gdp growth,2010,4.02913787986621,4,4.0,0.0,match
+ECU|gdp growth|2011,ECU,gdp growth,2011,8.48147656332823,8.5,8.5,0.0,match
+ECU|gdp growth|2012,ECU,gdp growth,2012,5.783212336172,5.8,5.8,0.0,match
+ECU|gdp growth|2013,ECU,gdp growth,2013,7.21123653679159,7.2,7.2,0.0,match
+ECU|gdp growth|2014,ECU,gdp growth,2014,4.22606520388456,4.2,4.2,0.0,match
+ECU|gdp growth|2015,ECU,gdp growth,2015,0.119692109287612,0.1,0.1,0.0,match
+ECU|gdp growth|2016,ECU,gdp growth,2016,-0.687954245877947,-0.7,-0.7,0.0,match
+ECU|gdp growth|2017,ECU,gdp growth,2017,5.97039880954841,6,6.0,0.0,match
+ECU|gdp growth|2018,ECU,gdp growth,2018,1.04429460679607,1,1.0,0.0,match
+ECU|gdp growth|2019,ECU,gdp growth,2019,0.1654044646003,0.2,0.2,0.0,match
+ECU|gdp growth|2020,ECU,gdp growth,2020,-9.24509619165865,-9.2,-9.2,0.0,match
+ECU|gdp growth|2021,ECU,gdp growth,2021,9.42189269033631,9.4,9.4,0.0,match
+ECU|gdp growth|2022,ECU,gdp growth,2022,5.86842354862311,5.9,5.9,0.0,match
+ECU|gdp growth|2023,ECU,gdp growth,2023,1.8328406107788,1.8,1.8,0.0,match
+ECU|gdp growth|2024,ECU,gdp growth,2024,-1.94409022506859,-1.9,-1.9,0.0,match
+ECU|inflation|2010,ECU,inflation,2010,3.55437734567842,3.6,3.6,0.0,match
+ECU|inflation|2011,ECU,inflation,2011,4.4745326579584,4.5,4.5,0.0,match
+ECU|inflation|2012,ECU,inflation,2012,5.10172180958665,5.1,5.1,0.0,match
+ECU|inflation|2013,ECU,inflation,2013,2.72177577710371,2.7,2.7,0.0,match
+ECU|inflation|2014,ECU,inflation,2014,3.58922016616663,3.6,3.6,0.0,match
+ECU|inflation|2015,ECU,inflation,2015,3.96664623255357,4,4.0,0.0,match
+ECU|inflation|2016,ECU,inflation,2016,1.72826463324532,1.7,1.7,0.0,match
+ECU|inflation|2017,ECU,inflation,2017,0.417335588666824,0.4,0.4,0.0,match
+ECU|inflation|2018,ECU,inflation,2018,-0.224103246005552,-0.2,-0.2,0.0,match
+ECU|inflation|2019,ECU,inflation,2019,0.266012515466155,0.3,0.3,0.0,match
+ECU|inflation|2020,ECU,inflation,2020,-0.338872392562139,-0.3,-0.3,0.0,match
+ECU|inflation|2021,ECU,inflation,2021,0.133251386096389,0.1,0.1,0.0,match
+ECU|inflation|2022,ECU,inflation,2022,3.46616972213076,3.5,3.5,0.0,match
+ECU|inflation|2023,ECU,inflation,2023,2.21568764237058,2.2,2.2,0.0,match
+ECU|inflation|2024,ECU,inflation,2024,1.54732515615369,1.5,1.5,0.0,match
+ETH|gdp growth|2010,ETH,gdp growth,2010,12.5505383347633,10.6,12.6,2.0,mismatch
+ETH|gdp growth|2011,ETH,gdp growth,2011,11.1782962297008,11.4,11.2,-0.2,match
+ETH|gdp growth|2012,ETH,gdp growth,2012,8.64781163513926,8.7,8.6,-0.1,match
+ETH|gdp growth|2013,ETH,gdp growth,2013,10.5822700502552,9.9,10.6,0.7,mismatch
+ETH|gdp growth|2014,ETH,gdp growth,2014,10.2574929627477,10.3,10.3,0.0,match
+ETH|gdp growth|2015,ETH,gdp growth,2015,10.3924630141307,10.4,10.4,0.0,match
+ETH|gdp growth|2016,ETH,gdp growth,2016,9.43348265981905,8,9.4,1.4,mismatch
+ETH|gdp growth|2017,ETH,gdp growth,2017,9.56418965754014,10.2,9.6,-0.6,mismatch
+ETH|gdp growth|2018,ETH,gdp growth,2018,6.81614778557282,7.7,6.8,-0.9,mismatch
+ETH|gdp growth|2019,ETH,gdp growth,2019,8.36408573111346,9,8.4,-0.6,mismatch
+ETH|gdp growth|2020,ETH,gdp growth,2020,6.05953089248577,6.1,6.1,0.0,match
+ETH|gdp growth|2021,ETH,gdp growth,2021,5.64153069324176,6.3,5.6,-0.7,mismatch
+ETH|gdp growth|2022,ETH,gdp growth,2022,5.32175988485454,6.4,5.3,-1.1,mismatch
+ETH|gdp growth|2023,ETH,gdp growth,2023,6.59424599054353,7.2,6.6,-0.6,mismatch
+ETH|gdp growth|2024,ETH,gdp growth,2024,7.61277447616879,8.1,7.6,-0.5,match
+ETH|inflation|2010,ETH,inflation,2010,8.14926402965082,2.8,8.1,5.3,mismatch
+ETH|inflation|2011,ETH,inflation,2011,33.2499598823344,18.1,33.2,15.1,mismatch
+ETH|inflation|2012,ETH,inflation,2012,23.600417677317,34.1,23.6,-10.5,mismatch
+ETH|inflation|2013,ETH,inflation,2013,7.46402192944517,13.5,7.5,-6.0,mismatch
+ETH|inflation|2014,ETH,inflation,2014,6.89001951597191,8.1,6.9,-1.2,mismatch
+ETH|inflation|2015,ETH,inflation,2015,9.56889955968623,7.7,9.6,1.9,mismatch
+ETH|inflation|2016,ETH,inflation,2016,6.62813337230924,9.7,6.6,-3.1,mismatch
+ETH|inflation|2017,ETH,inflation,2017,10.6871150284238,6.9,10.7,3.8,mismatch
+ETH|inflation|2018,ETH,inflation,2018,13.8330356586661,14.5,13.8,-0.7,mismatch
+ETH|inflation|2019,ETH,inflation,2019,15.8096321719344,12.6,15.8,3.2,mismatch
+ETH|inflation|2020,ETH,inflation,2020,20.3563468559061,19.9,20.4,0.5,match
+ETH|inflation|2021,ETH,inflation,2021,26.8395221557722,20.2,26.8,6.6,mismatch
+ETH|inflation|2022,ETH,inflation,2022,33.8898797100898,33.9,33.9,0.0,match
+ETH|inflation|2023,ETH,inflation,2023,30.2188278135278,32.5,30.2,-2.3,mismatch
+ETH|inflation|2024,ETH,inflation,2024,21.037746057771,26.6,21.0,-5.6,mismatch
+FIN|gdp growth|2010,FIN,gdp growth,2010,3.1682879121621,3.2,3.2,0.0,match
+FIN|gdp growth|2011,FIN,gdp growth,2011,2.39039455396828,2.4,2.4,0.0,match
+FIN|gdp growth|2012,FIN,gdp growth,2012,-1.52284013040689,-1.5,-1.5,0.0,match
+FIN|gdp growth|2013,FIN,gdp growth,2013,-0.979741024949618,-1,-1.0,0.0,match
+FIN|gdp growth|2014,FIN,gdp growth,2014,-0.4780684247837,-0.5,-0.5,0.0,match
+FIN|gdp growth|2015,FIN,gdp growth,2015,0.466503766322674,0.5,0.5,0.0,match
+FIN|gdp growth|2016,FIN,gdp growth,2016,2.57193414898754,2.6,2.6,0.0,match
+FIN|gdp growth|2017,FIN,gdp growth,2017,3.30337003591039,3.3,3.3,0.0,match
+FIN|gdp growth|2018,FIN,gdp growth,2018,1.19297759742292,1.2,1.2,0.0,match
+FIN|gdp growth|2019,FIN,gdp growth,2019,1.34973845741737,1.3,1.3,0.0,match
+FIN|gdp growth|2020,FIN,gdp growth,2020,-2.49103605535707,-2.5,-2.5,0.0,match
+FIN|gdp growth|2021,FIN,gdp growth,2021,2.67634641498897,2.7,2.7,0.0,match
+FIN|gdp growth|2022,FIN,gdp growth,2022,0.763041912763526,0.6,0.8,0.2,match
+FIN|gdp growth|2023,FIN,gdp growth,2023,-1.28973484453397,-1.2,-1.3,-0.1,match
+FIN|gdp growth|2024,FIN,gdp growth,2024,0.374566568538427,1,0.4,-0.6,mismatch
+FIN|inflation|2010,FIN,inflation,2010,1.18413734049094,1.7,1.2,-0.5,match
+FIN|inflation|2011,FIN,inflation,2011,3.4168070861099,3.3,3.4,0.1,match
+FIN|inflation|2012,FIN,inflation,2012,2.80833276899532,3.2,2.8,-0.4,match
+FIN|inflation|2013,FIN,inflation,2013,1.47828883999966,2.2,1.5,-0.7,mismatch
+FIN|inflation|2014,FIN,inflation,2014,1.04120094211784,1.2,1.0,-0.2,match
+FIN|inflation|2015,FIN,inflation,2015,-0.218846205108623,-0.2,-0.2,0.0,match
+FIN|inflation|2016,FIN,inflation,2016,0.36524354685248,0.4,0.4,0.0,match
+FIN|inflation|2017,FIN,inflation,2017,0.733944954128445,0.8,0.7,-0.1,match
+FIN|inflation|2018,FIN,inflation,2018,1.09896782027926,1.2,1.1,-0.1,match
+FIN|inflation|2019,FIN,inflation,2019,1.02596440654212,1.1,1.0,-0.1,match
+FIN|inflation|2020,FIN,inflation,2020,0.290297331840518,0.4,0.3,-0.1,match
+FIN|inflation|2021,FIN,inflation,2021,2.20204694538849,2.1,2.2,0.1,match
+FIN|inflation|2022,FIN,inflation,2022,7.11434177839211,7.2,7.1,-0.1,match
+FIN|inflation|2023,FIN,inflation,2023,6.25107162517039,4.3,6.3,2.0,mismatch
+FIN|inflation|2024,FIN,inflation,2024,1.57635467980291,1,1.6,0.6,mismatch
+GHA|gdp growth|2010,GHA,gdp growth,2010,7.89971194051621,7.8,7.9,0.1,match
+GHA|gdp growth|2011,GHA,gdp growth,2011,14.0471235803149,14,14.0,0.0,match
+GHA|gdp growth|2012,GHA,gdp growth,2012,9.2927894063005,8.4,9.3,0.9,mismatch
+GHA|gdp growth|2013,GHA,gdp growth,2013,7.31252501678145,7.2,7.3,0.1,match
+GHA|gdp growth|2014,GHA,gdp growth,2014,2.85624016330883,2.9,2.9,0.0,match
+GHA|gdp growth|2015,GHA,gdp growth,2015,2.12075933817334,2.1,2.1,0.0,match
+GHA|gdp growth|2016,GHA,gdp growth,2016,3.37346574966936,3.4,3.4,0.0,match
+GHA|gdp growth|2017,GHA,gdp growth,2017,8.12889488100956,8.1,8.1,0.0,match
+GHA|gdp growth|2018,GHA,gdp growth,2018,6.20007768127284,6.2,6.2,0.0,match
+GHA|gdp growth|2019,GHA,gdp growth,2019,6.5077747939152,6.5,6.5,0.0,match
+GHA|gdp growth|2020,GHA,gdp growth,2020,0.513941670628171,0.5,0.5,0.0,match
+GHA|gdp growth|2021,GHA,gdp growth,2021,5.07646643533542,5.1,5.1,0.0,match
+GHA|gdp growth|2022,GHA,gdp growth,2022,3.80484978178042,3.8,3.8,0.0,match
+GHA|gdp growth|2023,GHA,gdp growth,2023,3.14009100080186,3.1,3.1,0.0,match
+GHA|gdp growth|2024,GHA,gdp growth,2024,5.84746854280382,5.8,5.8,0.0,match
+GHA|inflation|2010,GHA,inflation,2010,10.7333898354914,6.7,10.7,4.0,mismatch
+GHA|inflation|2011,GHA,inflation,2011,8.7284593709302,7.7,8.7,1.0,mismatch
+GHA|inflation|2012,GHA,inflation,2012,11.1863409441067,7.1,11.2,4.1,mismatch
+GHA|inflation|2013,GHA,inflation,2013,11.6661923071728,11.7,11.7,0.0,match
+GHA|inflation|2014,GHA,inflation,2014,15.4896160333318,15.5,15.5,0.0,match
+GHA|inflation|2015,GHA,inflation,2015,17.1499695007877,17.2,17.1,-0.1,match
+GHA|inflation|2016,GHA,inflation,2016,17.4546347070867,17.5,17.5,0.0,match
+GHA|inflation|2017,GHA,inflation,2017,12.3719215507048,12.4,12.4,0.0,match
+GHA|inflation|2018,GHA,inflation,2018,7.80876516610703,9.8,7.8,-2.0,mismatch
+GHA|inflation|2019,GHA,inflation,2019,7.14364003330856,7.2,7.1,-0.1,match
+GHA|inflation|2020,GHA,inflation,2020,9.88728956269944,9.9,9.9,0.0,match
+GHA|inflation|2021,GHA,inflation,2021,9.97108867504439,10,10.0,0.0,match
+GHA|inflation|2022,GHA,inflation,2022,31.2558951049016,31.9,31.3,-0.6,mismatch
+GHA|inflation|2023,GHA,inflation,2023,38.1069656296501,39.2,38.1,-1.1,mismatch
+GHA|inflation|2024,GHA,inflation,2024,22.8483281157842,22.9,22.8,-0.1,match
+GRC|gdp growth|2010,GRC,gdp growth,2010,-5.6937412158003,-5.7,-5.7,0.0,match
+GRC|gdp growth|2011,GRC,gdp growth,2011,-9.87677875300243,-9.9,-9.9,0.0,match
+GRC|gdp growth|2012,GRC,gdp growth,2012,-8.33113421099992,-8.3,-8.3,0.0,match
+GRC|gdp growth|2013,GRC,gdp growth,2013,-2.27211699888024,-2.3,-2.3,0.0,match
+GRC|gdp growth|2014,GRC,gdp growth,2014,0.792225060962835,0.8,0.8,0.0,match
+GRC|gdp growth|2015,GRC,gdp growth,2015,-0.228301892172851,-0.2,-0.2,0.0,match
+GRC|gdp growth|2016,GRC,gdp growth,2016,-0.0317947678412054,0,0.0,0.0,match
+GRC|gdp growth|2017,GRC,gdp growth,2017,1.47312472702352,1.5,1.5,0.0,match
+GRC|gdp growth|2018,GRC,gdp growth,2018,2.06467207892409,2.1,2.1,0.0,match
+GRC|gdp growth|2019,GRC,gdp growth,2019,2.27718065334808,2.3,2.3,0.0,match
+GRC|gdp growth|2020,GRC,gdp growth,2020,-9.19623149726978,-9.2,-9.2,0.0,match
+GRC|gdp growth|2021,GRC,gdp growth,2021,8.65449786002131,8.7,8.7,0.0,match
+GRC|gdp growth|2022,GRC,gdp growth,2022,5.52198580589408,5.5,5.5,0.0,match
+GRC|gdp growth|2023,GRC,gdp growth,2023,2.13591131996631,2.1,2.1,0.0,match
+GRC|gdp growth|2024,GRC,gdp growth,2024,2.0865743380603,2.1,2.1,0.0,match
+GRC|inflation|2010,GRC,inflation,2010,4.71298907760388,4.7,4.7,0.0,match
+GRC|inflation|2011,GRC,inflation,2011,3.3298532335065,3.1,3.3,0.2,match
+GRC|inflation|2012,GRC,inflation,2012,1.50152696177757,1,1.5,0.5,match
+GRC|inflation|2013,GRC,inflation,2013,-0.921269454256993,-0.9,-0.9,0.0,match
+GRC|inflation|2014,GRC,inflation,2014,-1.31257583692997,-1.4,-1.3,0.1,match
+GRC|inflation|2015,GRC,inflation,2015,-1.72561164771509,-1.1,-1.7,-0.6,mismatch
+GRC|inflation|2016,GRC,inflation,2016,-0.837681877998503,0,-0.8,-0.8,mismatch
+GRC|inflation|2017,GRC,inflation,2017,1.12096202512904,1.1,1.1,0.0,match
+GRC|inflation|2018,GRC,inflation,2018,0.625108501423381,0.8,0.6,-0.2,match
+GRC|inflation|2019,GRC,inflation,2019,0.255275185263553,0.5,0.3,-0.2,match
+GRC|inflation|2020,GRC,inflation,2020,-1.24746757345197,-1.3,-1.2,0.1,match
+GRC|inflation|2021,GRC,inflation,2021,1.22394673806362,0.6,1.2,0.6,mismatch
+GRC|inflation|2022,GRC,inflation,2022,9.64486176520366,9.3,9.6,0.3,match
+GRC|inflation|2023,GRC,inflation,2023,3.46456960141384,4.2,3.5,-0.7,mismatch
+GRC|inflation|2024,GRC,inflation,2024,2.74197509290368,3,2.7,-0.3,match
+GTM|gdp growth|2010,GTM,gdp growth,2010,2.88417542800377,2.9,2.9,0.0,match
+GTM|gdp growth|2011,GTM,gdp growth,2011,4.16390688293349,4.2,4.2,0.0,match
+GTM|gdp growth|2012,GTM,gdp growth,2012,2.97470856847661,3,3.0,0.0,match
+GTM|gdp growth|2013,GTM,gdp growth,2013,3.69476814623695,3.7,3.7,0.0,match
+GTM|gdp growth|2014,GTM,gdp growth,2014,4.44397825774911,4.4,4.4,0.0,match
+GTM|gdp growth|2015,GTM,gdp growth,2015,4.09217170075418,4.1,4.1,0.0,match
+GTM|gdp growth|2016,GTM,gdp growth,2016,2.6778031930216,2.7,2.7,0.0,match
+GTM|gdp growth|2017,GTM,gdp growth,2017,3.0798512212244,3.1,3.1,0.0,match
+GTM|gdp growth|2018,GTM,gdp growth,2018,3.40687328176345,3.4,3.4,0.0,match
+GTM|gdp growth|2019,GTM,gdp growth,2019,4.01789830861587,4,4.0,0.0,match
+GTM|gdp growth|2020,GTM,gdp growth,2020,-1.78555117570465,-1.8,-1.8,0.0,match
+GTM|gdp growth|2021,GTM,gdp growth,2021,8.04170398855833,8,8.0,0.0,match
+GTM|gdp growth|2022,GTM,gdp growth,2022,4.15492196609047,4.2,4.2,0.0,match
+GTM|gdp growth|2023,GTM,gdp growth,2023,3.52430434049013,3.5,3.5,0.0,match
+GTM|gdp growth|2024,GTM,gdp growth,2024,3.71558453779777,3.7,3.7,0.0,match
+GTM|inflation|2010,GTM,inflation,2010,3.8595090983316,4,3.9,-0.1,match
+GTM|inflation|2011,GTM,inflation,2011,6.214123930671,6.2,6.2,0.0,match
+GTM|inflation|2012,GTM,inflation,2012,3.78180754679677,3.8,3.8,0.0,match
+GTM|inflation|2013,GTM,inflation,2013,4.3433713127952,4.3,4.3,0.0,match
+GTM|inflation|2014,GTM,inflation,2014,3.41836169662959,3.4,3.4,0.0,match
+GTM|inflation|2015,GTM,inflation,2015,2.3887203283955,2.4,2.4,0.0,match
+GTM|inflation|2016,GTM,inflation,2016,4.44844199942826,4.5,4.4,-0.1,match
+GTM|inflation|2017,GTM,inflation,2017,4.42453655182545,4.4,4.4,0.0,match
+GTM|inflation|2018,GTM,inflation,2018,3.75186186704508,3.8,3.8,0.0,match
+GTM|inflation|2019,GTM,inflation,2019,3.69998398008604,3.7,3.7,0.0,match
+GTM|inflation|2020,GTM,inflation,2020,3.21444062197345,3.2,3.2,0.0,match
+GTM|inflation|2021,GTM,inflation,2021,4.26105127422813,4.3,4.3,0.0,match
+GTM|inflation|2022,GTM,inflation,2022,6.88512823344286,6.9,6.9,0.0,match
+GTM|inflation|2023,GTM,inflation,2023,6.20657592272125,6.2,6.2,0.0,match
+GTM|inflation|2024,GTM,inflation,2024,2.86992752918293,2.9,2.9,0.0,match
+HRV|gdp growth|2010,HRV,gdp growth,2010,-1.33616285467264,-1.3,-1.3,0.0,match
+HRV|gdp growth|2011,HRV,gdp growth,2011,-0.111527124990047,-0.1,-0.1,0.0,match
+HRV|gdp growth|2012,HRV,gdp growth,2012,-2.23702049605232,-2.2,-2.2,0.0,match
+HRV|gdp growth|2013,HRV,gdp growth,2013,-0.132561080066893,-0.1,-0.1,0.0,match
+HRV|gdp growth|2014,HRV,gdp growth,2014,-0.559537666687092,-0.6,-0.6,0.0,match
+HRV|gdp growth|2015,HRV,gdp growth,2015,2.32056679330526,2.3,2.3,0.0,match
+HRV|gdp growth|2016,HRV,gdp growth,2016,3.46613146011039,3.5,3.5,0.0,match
+HRV|gdp growth|2017,HRV,gdp growth,2017,3.2840626939789,3.3,3.3,0.0,match
+HRV|gdp growth|2018,HRV,gdp growth,2018,2.91107146210912,2.9,2.9,0.0,match
+HRV|gdp growth|2019,HRV,gdp growth,2019,3.10247285336254,3.1,3.1,0.0,match
+HRV|gdp growth|2020,HRV,gdp growth,2020,-8.31046995309319,-8.3,-8.3,0.0,match
+HRV|gdp growth|2021,HRV,gdp growth,2021,12.6312741312741,12.6,12.6,0.0,match
+HRV|gdp growth|2022,HRV,gdp growth,2022,7.29479114889533,7.3,7.3,0.0,match
+HRV|gdp growth|2023,HRV,gdp growth,2023,3.76204092717136,3.8,3.8,0.0,match
+HRV|gdp growth|2024,HRV,gdp growth,2024,3.82578440126859,3.8,3.8,0.0,match
+HRV|inflation|2010,HRV,inflation,2010,1.03055505333575,1.1,1.0,-0.1,match
+HRV|inflation|2011,HRV,inflation,2011,2.27272727272722,2.2,2.3,0.1,match
+HRV|inflation|2012,HRV,inflation,2012,3.41207349081368,3.4,3.4,0.0,match
+HRV|inflation|2013,HRV,inflation,2013,2.21658206429778,2.3,2.2,-0.1,match
+HRV|inflation|2014,HRV,inflation,2014,-0.215196159576175,0.2,-0.2,-0.4,match
+HRV|inflation|2015,HRV,inflation,2015,-0.464499004645002,-0.3,-0.5,-0.2,match
+HRV|inflation|2016,HRV,inflation,2016,-1.12500000000002,-0.6,-1.1,-0.5,match
+HRV|inflation|2017,HRV,inflation,2017,1.12937210282346,1.3,1.1,-0.2,match
+HRV|inflation|2018,HRV,inflation,2018,1.50012501041747,1.6,1.5,-0.1,match
+HRV|inflation|2019,HRV,inflation,2019,0.771820346498111,0.8,0.8,0.0,match
+HRV|inflation|2020,HRV,inflation,2020,0.154811374562106,0,0.2,0.2,match
+HRV|inflation|2021,HRV,inflation,2021,2.5545069964204,2.7,2.6,-0.1,match
+HRV|inflation|2022,HRV,inflation,2022,10.7805806758686,10.7,10.8,0.1,match
+HRV|inflation|2023,HRV,inflation,2023,7.94128177586822,8.4,7.9,-0.5,match
+HRV|inflation|2024,HRV,inflation,2024,2.97200477643625,4,3.0,-1.0,mismatch
+HUN|gdp growth|2010,HUN,gdp growth,2010,1.06795068152046,1.1,1.1,0.0,match
+HUN|gdp growth|2011,HUN,gdp growth,2011,1.91670916599742,1.9,1.9,0.0,match
+HUN|gdp growth|2012,HUN,gdp growth,2012,-1.33948446518181,-1.3,-1.3,0.0,match
+HUN|gdp growth|2013,HUN,gdp growth,2013,2.03216990678146,2,2.0,0.0,match
+HUN|gdp growth|2014,HUN,gdp growth,2014,4.33435364113967,4.3,4.3,0.0,match
+HUN|gdp growth|2015,HUN,gdp growth,2015,3.65981615406955,3.7,3.7,0.0,match
+HUN|gdp growth|2016,HUN,gdp growth,2016,2.43864141309342,2.4,2.4,0.0,match
+HUN|gdp growth|2017,HUN,gdp growth,2017,4.12418389451805,4.1,4.1,0.0,match
+HUN|gdp growth|2018,HUN,gdp growth,2018,5.60613813768876,5.6,5.6,0.0,match
+HUN|gdp growth|2019,HUN,gdp growth,2019,5.07718495088933,5.1,5.1,0.0,match
+HUN|gdp growth|2020,HUN,gdp growth,2020,-4.33872540024058,-4.4,-4.3,0.1,match
+HUN|gdp growth|2021,HUN,gdp growth,2021,7.22291580811137,7.2,7.2,0.0,match
+HUN|gdp growth|2022,HUN,gdp growth,2022,4.15238057779229,4.2,4.2,0.0,match
+HUN|gdp growth|2023,HUN,gdp growth,2023,-0.817107370513455,-0.8,-0.8,0.0,match
+HUN|gdp growth|2024,HUN,gdp growth,2024,0.709070599066038,0.7,0.7,0.0,match
+HUN|inflation|2010,HUN,inflation,2010,4.8771702326921,4.9,4.9,0.0,match
+HUN|inflation|2011,HUN,inflation,2011,3.908503915373,3.9,3.9,0.0,match
+HUN|inflation|2012,HUN,inflation,2012,5.66536656309913,5.7,5.7,0.0,match
+HUN|inflation|2013,HUN,inflation,2013,1.72672672672673,1.7,1.7,0.0,match
+HUN|inflation|2014,HUN,inflation,2014,-0.227552275522772,-0.2,-0.2,0.0,match
+HUN|inflation|2015,HUN,inflation,2015,-0.0616408802316966,-0.1,-0.1,0.0,match
+HUN|inflation|2016,HUN,inflation,2016,0.388577067784991,0.4,0.4,0.0,match
+HUN|inflation|2017,HUN,inflation,2017,2.34701400835596,2.4,2.3,-0.1,match
+HUN|inflation|2018,HUN,inflation,2018,2.85148277104088,2.8,2.9,0.1,match
+HUN|inflation|2019,HUN,inflation,2019,3.33858635382016,3.4,3.3,-0.1,match
+HUN|inflation|2020,HUN,inflation,2020,3.32674385766727,3.3,3.3,0.0,match
+HUN|inflation|2021,HUN,inflation,2021,5.11096534382864,5.1,5.1,0.0,match
+HUN|inflation|2022,HUN,inflation,2022,14.6081439492433,14.6,14.6,0.0,match
+HUN|inflation|2023,HUN,inflation,2023,17.1249659678736,17.1,17.1,0.0,match
+HUN|inflation|2024,HUN,inflation,2024,3.70370370370363,3.7,3.7,0.0,match
+JOR|gdp growth|2010,JOR,gdp growth,2010,2.6377158262256,2.6,2.6,0.0,match
+JOR|gdp growth|2011,JOR,gdp growth,2011,2.90729315392207,2.9,2.9,0.0,match
+JOR|gdp growth|2012,JOR,gdp growth,2012,2.40465716535539,2.4,2.4,0.0,match
+JOR|gdp growth|2013,JOR,gdp growth,2013,2.72311205964112,2.7,2.7,0.0,match
+JOR|gdp growth|2014,JOR,gdp growth,2014,3.32287328047509,3.3,3.3,0.0,match
+JOR|gdp growth|2015,JOR,gdp growth,2015,2.52261671092148,2.5,2.5,0.0,match
+JOR|gdp growth|2016,JOR,gdp growth,2016,2.11166806967252,2.1,2.1,0.0,match
+JOR|gdp growth|2017,JOR,gdp growth,2017,2.50770398070352,2.5,2.5,0.0,match
+JOR|gdp growth|2018,JOR,gdp growth,2018,1.85383415616927,1.9,1.9,0.0,match
+JOR|gdp growth|2019,JOR,gdp growth,2019,1.85633006592765,1.9,1.9,0.0,match
+JOR|gdp growth|2020,JOR,gdp growth,2020,-1.15257534158022,-1.2,-1.2,0.0,match
+JOR|gdp growth|2021,JOR,gdp growth,2021,3.75201276755828,3.8,3.8,0.0,match
+JOR|gdp growth|2022,JOR,gdp growth,2022,2.7468615450031,2.7,2.7,0.0,match
+JOR|gdp growth|2023,JOR,gdp growth,2023,3.12900102017251,3.1,3.1,0.0,match
+JOR|gdp growth|2024,JOR,gdp growth,2024,2.55605891810194,2.6,2.6,0.0,match
+JOR|inflation|2010,JOR,inflation,2010,4.84551875852116,4.8,4.8,0.0,match
+JOR|inflation|2011,JOR,inflation,2011,4.1624416292779,4.2,4.2,0.0,match
+JOR|inflation|2012,JOR,inflation,2012,4.5152295667099,4.5,4.5,0.0,match
+JOR|inflation|2013,JOR,inflation,2013,4.82462314269537,4.8,4.8,0.0,match
+JOR|inflation|2014,JOR,inflation,2014,2.89947905006057,2.9,2.9,0.0,match
+JOR|inflation|2015,JOR,inflation,2015,-0.876851359704049,-0.9,-0.9,0.0,match
+JOR|inflation|2016,JOR,inflation,2016,-0.778430463054141,-0.8,-0.8,0.0,match
+JOR|inflation|2017,JOR,inflation,2017,3.32389447576097,3.3,3.3,0.0,match
+JOR|inflation|2018,JOR,inflation,2018,4.46231108475481,4.5,4.5,0.0,match
+JOR|inflation|2019,JOR,inflation,2019,0.7615140472656,0.8,0.8,0.0,match
+JOR|inflation|2020,JOR,inflation,2020,0.333294350628378,0.3,0.3,0.0,match
+JOR|inflation|2021,JOR,inflation,2021,1.34609377243117,1.3,1.3,0.0,match
+JOR|inflation|2022,JOR,inflation,2022,4.22915568897117,4.2,4.2,0.0,match
+JOR|inflation|2023,JOR,inflation,2023,2.08486986327133,2.1,2.1,0.0,match
+JOR|inflation|2024,JOR,inflation,2024,1.55659611283952,1.6,1.6,0.0,match
+KAZ|gdp growth|2010,KAZ,gdp growth,2010,7.30000000329814,7.3,7.3,0.0,match
+KAZ|gdp growth|2011,KAZ,gdp growth,2011,7.40000000144188,7.5,7.4,-0.1,match
+KAZ|gdp growth|2012,KAZ,gdp growth,2012,4.79999999528297,5,4.8,-0.2,match
+KAZ|gdp growth|2013,KAZ,gdp growth,2013,5.99999999671084,5.9,6.0,0.1,match
+KAZ|gdp growth|2014,KAZ,gdp growth,2014,4.20000000566705,4.3,4.2,-0.1,match
+KAZ|gdp growth|2015,KAZ,gdp growth,2015,1.20000000053288,1,1.2,0.2,match
+KAZ|gdp growth|2016,KAZ,gdp growth,2016,1.09999999910173,0.9,1.1,0.2,match
+KAZ|gdp growth|2017,KAZ,gdp growth,2017,4.10000000257358,3.9,4.1,0.2,match
+KAZ|gdp growth|2018,KAZ,gdp growth,2018,4.09999999309841,4.1,4.1,0.0,match
+KAZ|gdp growth|2019,KAZ,gdp growth,2019,4.50000000091883,4.5,4.5,0.0,match
+KAZ|gdp growth|2020,KAZ,gdp growth,2020,-2.49999999628,-2.6,-2.5,0.1,match
+KAZ|gdp growth|2021,KAZ,gdp growth,2021,4.29999999729456,4.1,4.3,0.2,match
+KAZ|gdp growth|2022,KAZ,gdp growth,2022,3.19999999970734,3.2,3.2,0.0,match
+KAZ|gdp growth|2023,KAZ,gdp growth,2023,5.09999999973641,5.1,5.1,0.0,match
+KAZ|gdp growth|2024,KAZ,gdp growth,2024,4.99999999996936,5,5.0,0.0,match
+KAZ|inflation|2010,KAZ,inflation,2010,7.40046356341407,7.1,7.4,0.3,match
+KAZ|inflation|2011,KAZ,inflation,2011,8.45290466176792,8.4,8.5,0.1,match
+KAZ|inflation|2012,KAZ,inflation,2012,5.19568369035063,5.1,5.2,0.1,match
+KAZ|inflation|2013,KAZ,inflation,2013,5.9428387164841,5.8,5.9,0.1,match
+KAZ|inflation|2014,KAZ,inflation,2014,6.84944977003367,6.6,6.8,0.2,match
+KAZ|inflation|2015,KAZ,inflation,2015,6.67828585615228,6.8,6.7,-0.1,match
+KAZ|inflation|2016,KAZ,inflation,2016,14.3610942386247,14.6,14.4,-0.2,match
+KAZ|inflation|2017,KAZ,inflation,2017,7.44266321306793,7.5,7.4,-0.1,match
+KAZ|inflation|2018,KAZ,inflation,2018,6.16366247577757,6,6.2,0.2,match
+KAZ|inflation|2019,KAZ,inflation,2019,5.33356098916675,5.3,5.3,0.0,match
+KAZ|inflation|2020,KAZ,inflation,2020,6.80371915011852,6.8,6.8,0.0,match
+KAZ|inflation|2021,KAZ,inflation,2021,7.96011920034767,8,8.0,0.0,match
+KAZ|inflation|2022,KAZ,inflation,2022,14.9948211297904,15,15.0,0.0,match
+KAZ|inflation|2023,KAZ,inflation,2023,14.5222753412318,14.5,14.5,0.0,match
+KAZ|inflation|2024,KAZ,inflation,2024,8.67566095952575,8.7,8.7,0.0,match
+KEN|gdp growth|2010,KEN,gdp growth,2010,8.05847360290906,8.1,8.1,0.0,match
+KEN|gdp growth|2011,KEN,gdp growth,2011,5.1211061197056,5.1,5.1,0.0,match
+KEN|gdp growth|2012,KEN,gdp growth,2012,4.56867961444982,4.6,4.6,0.0,match
+KEN|gdp growth|2013,KEN,gdp growth,2013,3.7978483925754,3.8,3.8,0.0,match
+KEN|gdp growth|2014,KEN,gdp growth,2014,5.02011100232484,5,5.0,0.0,match
+KEN|gdp growth|2015,KEN,gdp growth,2015,4.96772112759767,5,5.0,0.0,match
+KEN|gdp growth|2016,KEN,gdp growth,2016,4.21351706814744,4.2,4.2,0.0,match
+KEN|gdp growth|2017,KEN,gdp growth,2017,3.83795817364721,3.8,3.8,0.0,match
+KEN|gdp growth|2018,KEN,gdp growth,2018,5.64794640709219,5.7,5.6,-0.1,match
+KEN|gdp growth|2019,KEN,gdp growth,2019,5.11415885767801,5.1,5.1,0.0,match
+KEN|gdp growth|2020,KEN,gdp growth,2020,-0.272766327438816,-0.3,-0.3,0.0,match
+KEN|gdp growth|2021,KEN,gdp growth,2021,7.59048947333467,7.6,7.6,0.0,match
+KEN|gdp growth|2022,KEN,gdp growth,2022,4.85998104287999,4.9,4.9,0.0,match
+KEN|gdp growth|2023,KEN,gdp growth,2023,5.71999241214208,5.7,5.7,0.0,match
+KEN|gdp growth|2024,KEN,gdp growth,2024,4.66019594571891,4.7,4.7,0.0,match
+KEN|inflation|2010,KEN,inflation,2010,3.96138889115385,4.1,4.0,-0.1,match
+KEN|inflation|2011,KEN,inflation,2011,14.0224913014704,14,14.0,0.0,match
+KEN|inflation|2012,KEN,inflation,2012,9.37777003547598,9.4,9.4,0.0,match
+KEN|inflation|2013,KEN,inflation,2013,5.71749357037732,5.7,5.7,0.0,match
+KEN|inflation|2014,KEN,inflation,2014,6.87815499275948,6.9,6.9,0.0,match
+KEN|inflation|2015,KEN,inflation,2015,6.58215429284778,6.6,6.6,0.0,match
+KEN|inflation|2016,KEN,inflation,2016,6.29724953814624,6.3,6.3,0.0,match
+KEN|inflation|2017,KEN,inflation,2017,8.00564967709944,8,8.0,0.0,match
+KEN|inflation|2018,KEN,inflation,2018,4.68980646776329,4.7,4.7,0.0,match
+KEN|inflation|2019,KEN,inflation,2019,5.23963795764792,5.2,5.2,0.0,match
+KEN|inflation|2020,KEN,inflation,2020,5.40516207933392,5.3,5.4,0.1,match
+KEN|inflation|2021,KEN,inflation,2021,6.10793603659176,6.1,6.1,0.0,match
+KEN|inflation|2022,KEN,inflation,2022,7.65986268272223,7.6,7.7,0.1,match
+KEN|inflation|2023,KEN,inflation,2023,7.67139634029402,7.7,7.7,0.0,match
+KEN|inflation|2024,KEN,inflation,2024,4.48978854243447,4.5,4.5,0.0,match
+LKA|gdp growth|2010,LKA,gdp growth,2010,8.01596737040464,8,8.0,0.0,match
+LKA|gdp growth|2011,LKA,gdp growth,2011,8.66948301160571,8.7,8.7,0.0,match
+LKA|gdp growth|2012,LKA,gdp growth,2012,8.6321813769906,8.6,8.6,0.0,match
+LKA|gdp growth|2013,LKA,gdp growth,2013,4.0517463303875,4.1,4.1,0.0,match
+LKA|gdp growth|2014,LKA,gdp growth,2014,6.37797889684965,6.4,6.4,0.0,match
+LKA|gdp growth|2015,LKA,gdp growth,2015,4.20595547501601,4.2,4.2,0.0,match
+LKA|gdp growth|2016,LKA,gdp growth,2016,5.05362488993089,5.1,5.1,0.0,match
+LKA|gdp growth|2017,LKA,gdp growth,2017,6.46068127080994,6.5,6.5,0.0,match
+LKA|gdp growth|2018,LKA,gdp growth,2018,2.31008425504933,2.3,2.3,0.0,match
+LKA|gdp growth|2019,LKA,gdp growth,2019,-0.220483886824823,-0.2,-0.2,0.0,match
+LKA|gdp growth|2020,LKA,gdp growth,2020,-4.62451503712715,-4.6,-4.6,0.0,match
+LKA|gdp growth|2021,LKA,gdp growth,2021,4.2074764950026,4.2,4.2,0.0,match
+LKA|gdp growth|2022,LKA,gdp growth,2022,-7.34919311146656,-7.3,-7.3,0.0,match
+LKA|gdp growth|2023,LKA,gdp growth,2023,-2.0289296690344,-2,-2.0,0.0,match
+LKA|gdp growth|2024,LKA,gdp growth,2024,4.99241614398109,5,5.0,0.0,match
+LKA|inflation|2010,LKA,inflation,2010,6.2176488930462,6.2,6.2,0.0,match
+LKA|inflation|2011,LKA,inflation,2011,6.7167684358854,6.7,6.7,0.0,match
+LKA|inflation|2012,LKA,inflation,2012,7.54291373239437,7.5,7.5,0.0,match
+LKA|inflation|2013,LKA,inflation,2013,6.90845034828452,6.9,6.9,0.0,match
+LKA|inflation|2014,LKA,inflation,2014,3.17900228236059,2.8,3.2,0.4,match
+LKA|inflation|2015,LKA,inflation,2015,3.76836783062096,2.2,3.8,1.6,mismatch
+LKA|inflation|2016,LKA,inflation,2016,3.95888846593069,4,4.0,0.0,match
+LKA|inflation|2017,LKA,inflation,2017,7.70413767850601,6.6,7.7,1.1,mismatch
+LKA|inflation|2018,LKA,inflation,2018,2.135037737132,4.3,2.1,-2.2,mismatch
+LKA|inflation|2019,LKA,inflation,2019,3.52839358231811,4.3,3.5,-0.8,mismatch
+LKA|inflation|2020,LKA,inflation,2020,6.15394508391737,4.6,6.2,1.6,mismatch
+LKA|inflation|2021,LKA,inflation,2021,7.01478071238194,6,7.0,1.0,mismatch
+LKA|inflation|2022,LKA,inflation,2022,49.7211021114327,45.2,49.7,4.5,mismatch
+LKA|inflation|2023,LKA,inflation,2023,16.5411742279831,17.4,16.5,-0.9,mismatch
+LKA|inflation|2024,LKA,inflation,2024,-0.42936004906973,1.2,-0.4,-1.6,mismatch
+MAR|gdp growth|2010,MAR,gdp growth,2010,3.49955709403216,3.8,3.5,-0.3,match
+MAR|gdp growth|2011,MAR,gdp growth,2011,5.52464523319847,5.2,5.5,0.3,match
+MAR|gdp growth|2012,MAR,gdp growth,2012,3.06234368502997,3,3.1,0.1,match
+MAR|gdp growth|2013,MAR,gdp growth,2013,4.12221286860944,4.5,4.1,-0.4,match
+MAR|gdp growth|2014,MAR,gdp growth,2014,2.7192440802029,2.7,2.7,0.0,match
+MAR|gdp growth|2015,MAR,gdp growth,2015,4.34458297635238,4.3,4.3,0.0,match
+MAR|gdp growth|2016,MAR,gdp growth,2016,0.52118550608968,0.5,0.5,0.0,match
+MAR|gdp growth|2017,MAR,gdp growth,2017,5.05789816173446,5.1,5.1,0.0,match
+MAR|gdp growth|2018,MAR,gdp growth,2018,3.06564133025955,3.1,3.1,0.0,match
+MAR|gdp growth|2019,MAR,gdp growth,2019,2.89097476137077,2.9,2.9,0.0,match
+MAR|gdp growth|2020,MAR,gdp growth,2020,-7.17820744246774,-7.2,-7.2,0.0,match
+MAR|gdp growth|2021,MAR,gdp growth,2021,8.15473889823681,8.2,8.2,0.0,match
+MAR|gdp growth|2022,MAR,gdp growth,2022,1.81269242194809,1.8,1.8,0.0,match
+MAR|gdp growth|2023,MAR,gdp growth,2023,3.65564411017931,3.8,3.7,-0.1,match
+MAR|gdp growth|2024,MAR,gdp growth,2024,3.79336515978963,4.4,3.8,-0.6,mismatch
+MAR|inflation|2010,MAR,inflation,2010,0.993557401226392,1,1.0,0.0,match
+MAR|inflation|2011,MAR,inflation,2011,0.9069249096918,1,0.9,-0.1,match
+MAR|inflation|2012,MAR,inflation,2012,1.28712240079219,1.3,1.3,0.0,match
+MAR|inflation|2013,MAR,inflation,2013,1.88065466724085,1.8,1.9,0.1,match
+MAR|inflation|2014,MAR,inflation,2014,0.442310053557047,0.5,0.4,-0.1,match
+MAR|inflation|2015,MAR,inflation,2015,1.5579071134626,1.6,1.6,0.0,match
+MAR|inflation|2016,MAR,inflation,2016,1.63531114327064,1.5,1.6,0.1,match
+MAR|inflation|2017,MAR,inflation,2017,0.754663249323618,0.8,0.8,0.0,match
+MAR|inflation|2018,MAR,inflation,2018,1.80391671141895,1.6,1.8,0.2,match
+MAR|inflation|2019,MAR,inflation,2019,0.303386036590383,0.2,0.3,0.1,match
+MAR|inflation|2020,MAR,inflation,2020,0.70596866133826,0.7,0.7,0.0,match
+MAR|inflation|2021,MAR,inflation,2021,1.40195883962005,1.4,1.4,0.0,match
+MAR|inflation|2022,MAR,inflation,2022,6.65704202759066,6.6,6.7,0.1,match
+MAR|inflation|2023,MAR,inflation,2023,6.0911415250414,6.1,6.1,0.0,match
+MAR|inflation|2024,MAR,inflation,2024,0.985256592004506,0.9,1.0,0.1,match
+NZL|gdp growth|2010,NZL,gdp growth,2010,1.47182504276788,1.7,1.5,-0.2,match
+NZL|gdp growth|2011,NZL,gdp growth,2011,2.1445004445998,1.7,2.1,0.4,match
+NZL|gdp growth|2012,NZL,gdp growth,2012,2.30256429520961,2.5,2.3,-0.2,match
+NZL|gdp growth|2013,NZL,gdp growth,2013,2.5648360739867,2.1,2.6,0.5,match
+NZL|gdp growth|2014,NZL,gdp growth,2014,3.81933619307242,3.8,3.8,0.0,match
+NZL|gdp growth|2015,NZL,gdp growth,2015,3.72968312125018,3.6,3.7,0.1,match
+NZL|gdp growth|2016,NZL,gdp growth,2016,3.7435247472109,4,3.7,-0.3,match
+NZL|gdp growth|2017,NZL,gdp growth,2017,3.31568621648204,3.3,3.3,0.0,match
+NZL|gdp growth|2018,NZL,gdp growth,2018,3.32219666491432,3.3,3.3,0.0,match
+NZL|gdp growth|2019,NZL,gdp growth,2019,2.32371708441623,3,2.3,-0.7,mismatch
+NZL|gdp growth|2020,NZL,gdp growth,2020,-0.240916114758988,-1.2,-0.2,1.0,mismatch
+NZL|gdp growth|2021,NZL,gdp growth,2021,4.29916005216614,5.5,4.3,-1.2,mismatch
+NZL|gdp growth|2022,NZL,gdp growth,2022,3.34521847792682,2.7,3.3,0.6,mismatch
+NZL|gdp growth|2023,NZL,gdp growth,2023,1.81389453412019,2.2,1.8,-0.4,match
+NZL|gdp growth|2024,NZL,gdp growth,2024,-0.868722371893952,-0.3,-0.9,-0.6,mismatch
+NZL|inflation|2010,NZL,inflation,2010,2.30202385958572,2.3,2.3,0.0,match
+NZL|inflation|2011,NZL,inflation,2011,4.0279066739204,4,4.0,0.0,match
+NZL|inflation|2012,NZL,inflation,2012,1.05991318445632,1.1,1.1,0.0,match
+NZL|inflation|2013,NZL,inflation,2013,1.13442266445817,1.1,1.1,0.0,match
+NZL|inflation|2014,NZL,inflation,2014,1.22750750597399,1.2,1.2,0.0,match
+NZL|inflation|2015,NZL,inflation,2015,0.292704628136101,0.3,0.3,0.0,match
+NZL|inflation|2016,NZL,inflation,2016,0.646240284454524,0.6,0.6,0.0,match
+NZL|inflation|2017,NZL,inflation,2017,1.85078767452536,1.9,1.9,0.0,match
+NZL|inflation|2018,NZL,inflation,2018,1.59829703801695,1.6,1.6,0.0,match
+NZL|inflation|2019,NZL,inflation,2019,1.61963190184047,1.6,1.6,0.0,match
+NZL|inflation|2020,NZL,inflation,2020,1.71456170007244,1.7,1.7,0.0,match
+NZL|inflation|2021,NZL,inflation,2021,3.94112060778728,3.9,3.9,0.0,match
+NZL|inflation|2022,NZL,inflation,2022,7.17222476016441,7.2,7.2,0.0,match
+NZL|inflation|2023,NZL,inflation,2023,5.73316283034957,5.7,5.7,0.0,match
+NZL|inflation|2024,NZL,inflation,2024,2.92279782301956,2.9,2.9,0.0,match
+OMN|gdp growth|2010,OMN,gdp growth,2010,2.47199856582773,2.5,2.5,0.0,match
+OMN|gdp growth|2011,OMN,gdp growth,2011,2.89460973541192,2.9,2.9,0.0,match
+OMN|gdp growth|2012,OMN,gdp growth,2012,8.86312225557018,8.9,8.9,0.0,match
+OMN|gdp growth|2013,OMN,gdp growth,2013,5.22770408145942,5.2,5.2,0.0,match
+OMN|gdp growth|2014,OMN,gdp growth,2014,1.29225229411081,1.3,1.3,0.0,match
+OMN|gdp growth|2015,OMN,gdp growth,2015,5.01705799719045,5,5.0,0.0,match
+OMN|gdp growth|2016,OMN,gdp growth,2016,5.04642394571691,5,5.0,0.0,match
+OMN|gdp growth|2017,OMN,gdp growth,2017,0.304057565922449,0.3,0.3,0.0,match
+OMN|gdp growth|2018,OMN,gdp growth,2018,1.28710391543288,1.3,1.3,0.0,match
+OMN|gdp growth|2019,OMN,gdp growth,2019,-1.12863801728058,-1.1,-1.1,0.0,match
+OMN|gdp growth|2020,OMN,gdp growth,2020,-3.37972052697999,-3.4,-3.4,0.0,match
+OMN|gdp growth|2021,OMN,gdp growth,2021,2.5821749892893,2.6,2.6,0.0,match
+OMN|gdp growth|2022,OMN,gdp growth,2022,7.98570728354278,8,8.0,0.0,match
+OMN|gdp growth|2023,OMN,gdp growth,2023,1.41401383200161,1.4,1.4,0.0,match
+OMN|gdp growth|2024,OMN,gdp growth,2024,1.63163231397978,1.6,1.6,0.0,match
+OMN|inflation|2010,OMN,inflation,2010,3.25657959078624,3.3,3.3,0.0,match
+OMN|inflation|2011,OMN,inflation,2011,4.0421886711639,4.1,4.0,-0.1,match
+OMN|inflation|2012,OMN,inflation,2012,2.94773495257209,2.9,2.9,0.0,match
+OMN|inflation|2013,OMN,inflation,2013,1.05354820265931,1.3,1.1,-0.2,match
+OMN|inflation|2014,OMN,inflation,2014,1.01401483924155,1.2,1.0,-0.2,match
+OMN|inflation|2015,OMN,inflation,2015,0.0652901330286599,0.1,0.1,0.0,match
+OMN|inflation|2016,OMN,inflation,2016,1.10920805807026,0.9,1.1,0.2,match
+OMN|inflation|2017,OMN,inflation,2017,1.58909413567798,1.5,1.6,0.1,match
+OMN|inflation|2018,OMN,inflation,2018,0.889312370970403,0.7,0.9,0.2,match
+OMN|inflation|2019,OMN,inflation,2019,0.490815362820671,0.5,0.5,0.0,match
+OMN|inflation|2020,OMN,inflation,2020,-0.406402919465849,-0.4,-0.4,0.0,match
+OMN|inflation|2021,OMN,inflation,2021,1.68221185876084,1.7,1.7,0.0,match
+OMN|inflation|2022,OMN,inflation,2022,2.50614250614249,2.5,2.5,0.0,match
+OMN|inflation|2023,OMN,inflation,2023,0.950782997762827,1,1.0,0.0,match
+OMN|inflation|2024,OMN,inflation,2024,0.593589236248469,0.6,0.6,0.0,match
+PAN|gdp growth|2010,PAN,gdp growth,2010,6.07339353106087,6.1,6.1,0.0,match
+PAN|gdp growth|2011,PAN,gdp growth,2011,11.9088772249531,11.9,11.9,0.0,match
+PAN|gdp growth|2012,PAN,gdp growth,2012,9.62729346439019,9.6,9.6,0.0,match
+PAN|gdp growth|2013,PAN,gdp growth,2013,6.32435388662846,6.3,6.3,0.0,match
+PAN|gdp growth|2014,PAN,gdp growth,2014,4.62581375565551,4.6,4.6,0.0,match
+PAN|gdp growth|2015,PAN,gdp growth,2015,5.26691719595516,5.3,5.3,0.0,match
+PAN|gdp growth|2016,PAN,gdp growth,2016,4.57196707937275,4.6,4.6,0.0,match
+PAN|gdp growth|2017,PAN,gdp growth,2017,5.7440594635578,5.7,5.7,0.0,match
+PAN|gdp growth|2018,PAN,gdp growth,2018,3.91824253321265,3.9,3.9,0.0,match
+PAN|gdp growth|2019,PAN,gdp growth,2019,3.10295395631086,3.1,3.1,0.0,match
+PAN|gdp growth|2020,PAN,gdp growth,2020,-17.8211174074602,-17.8,-17.8,0.0,match
+PAN|gdp growth|2021,PAN,gdp growth,2021,16.4669992022652,16.5,16.5,0.0,match
+PAN|gdp growth|2022,PAN,gdp growth,2022,11.0386022908773,11,11.0,0.0,match
+PAN|gdp growth|2023,PAN,gdp growth,2023,7.16634016390665,7.2,7.2,0.0,match
+PAN|gdp growth|2024,PAN,gdp growth,2024,2.74784148771307,2.7,2.7,0.0,match
+PAN|inflation|2010,PAN,inflation,2010,3.49128867487519,3.5,3.5,0.0,match
+PAN|inflation|2011,PAN,inflation,2011,5.8758024998976,5.9,5.9,0.0,match
+PAN|inflation|2012,PAN,inflation,2012,5.69819940307856,5.7,5.7,0.0,match
+PAN|inflation|2013,PAN,inflation,2013,4.0271605344299,4,4.0,0.0,match
+PAN|inflation|2014,PAN,inflation,2014,2.62668365353328,2.6,2.6,0.0,match
+PAN|inflation|2015,PAN,inflation,2015,0.136399710403434,0.1,0.1,0.0,match
+PAN|inflation|2016,PAN,inflation,2016,0.739734025300037,0.7,0.7,0.0,match
+PAN|inflation|2017,PAN,inflation,2017,0.87558591875993,0.9,0.9,0.0,match
+PAN|inflation|2018,PAN,inflation,2018,0.761578359399848,0.8,0.8,0.0,match
+PAN|inflation|2019,PAN,inflation,2019,-0.355083821021175,-0.4,-0.4,0.0,match
+PAN|inflation|2020,PAN,inflation,2020,-1.55027540803758,-1.6,-1.6,0.0,match
+PAN|inflation|2021,PAN,inflation,2021,1.6307033730189,1.6,1.6,0.0,match
+PAN|inflation|2022,PAN,inflation,2022,2.85748282185327,2.9,2.9,0.0,match
+PAN|inflation|2023,PAN,inflation,2023,1.48855311404795,1.5,1.5,0.0,match
+PAN|inflation|2024,PAN,inflation,2024,0.692107003454604,0.7,0.7,0.0,match
+PRT|gdp growth|2010,PRT,gdp growth,2010,1.73762453640036,1.7,1.7,0.0,match
+PRT|gdp growth|2011,PRT,gdp growth,2011,-1.71352745905065,-1.7,-1.7,0.0,match
+PRT|gdp growth|2012,PRT,gdp growth,2012,-4.05090267621935,-4.1,-4.1,0.0,match
+PRT|gdp growth|2013,PRT,gdp growth,2013,-0.984106574148328,-1,-1.0,0.0,match
+PRT|gdp growth|2014,PRT,gdp growth,2014,0.741391420706506,0.7,0.7,0.0,match
+PRT|gdp growth|2015,PRT,gdp growth,2015,1.58979803702681,1.6,1.6,0.0,match
+PRT|gdp growth|2016,PRT,gdp growth,2016,2.00414129666575,2,2.0,0.0,match
+PRT|gdp growth|2017,PRT,gdp growth,2017,3.31472008175986,3.3,3.3,0.0,match
+PRT|gdp growth|2018,PRT,gdp growth,2018,2.94628343449202,2.9,2.9,0.0,match
+PRT|gdp growth|2019,PRT,gdp growth,2019,2.74568432648596,2.7,2.7,0.0,match
+PRT|gdp growth|2020,PRT,gdp growth,2020,-8.20463159324387,-8.2,-8.2,0.0,match
+PRT|gdp growth|2021,PRT,gdp growth,2021,5.55875672070374,5.6,5.6,0.0,match
+PRT|gdp growth|2022,PRT,gdp growth,2022,6.98584137580278,7,7.0,0.0,match
+PRT|gdp growth|2023,PRT,gdp growth,2023,3.09998745904281,3.1,3.1,0.0,match
+PRT|gdp growth|2024,PRT,gdp growth,2024,2.21459232301109,2.2,2.2,0.0,match
+PRT|inflation|2010,PRT,inflation,2010,1.40257289895372,1.4,1.4,0.0,match
+PRT|inflation|2011,PRT,inflation,2011,3.6530110043073,3.6,3.7,0.1,match
+PRT|inflation|2012,PRT,inflation,2012,2.77333854051576,2.8,2.8,0.0,match
+PRT|inflation|2013,PRT,inflation,2013,0.274416666666663,0.4,0.3,-0.1,match
+PRT|inflation|2014,PRT,inflation,2014,-0.278153367467428,-0.2,-0.3,-0.1,match
+PRT|inflation|2015,PRT,inflation,2015,0.487938623904719,0.5,0.5,0.0,match
+PRT|inflation|2016,PRT,inflation,2016,0.607397074641718,0.6,0.6,0.0,match
+PRT|inflation|2017,PRT,inflation,2017,1.36861411643481,1.6,1.4,-0.2,match
+PRT|inflation|2018,PRT,inflation,2018,0.993715683468233,1.2,1.0,-0.2,match
+PRT|inflation|2019,PRT,inflation,2019,0.338178410046124,0.3,0.3,0.0,match
+PRT|inflation|2020,PRT,inflation,2020,-0.0124383299576209,-0.1,0.0,0.1,match
+PRT|inflation|2021,PRT,inflation,2021,1.26565719069043,0.9,1.3,0.4,match
+PRT|inflation|2022,PRT,inflation,2022,7.83269124233323,8.1,7.8,-0.3,match
+PRT|inflation|2023,PRT,inflation,2023,4.3112819189868,5.3,4.3,-1.0,mismatch
+PRT|inflation|2024,PRT,inflation,2024,2.41613187791875,2.7,2.4,-0.3,match
+PRY|gdp growth|2010,PRY,gdp growth,2010,11.0952312685521,11.1,11.1,0.0,match
+PRY|gdp growth|2011,PRY,gdp growth,2011,4.28637120702282,4.3,4.3,0.0,match
+PRY|gdp growth|2012,PRY,gdp growth,2012,-0.708043112316886,-0.7,-0.7,0.0,match
+PRY|gdp growth|2013,PRY,gdp growth,2013,8.29307648940471,8.3,8.3,0.0,match
+PRY|gdp growth|2014,PRY,gdp growth,2014,5.30123864473624,5.3,5.3,0.0,match
+PRY|gdp growth|2015,PRY,gdp growth,2015,2.95715168367079,3,3.0,0.0,match
+PRY|gdp growth|2016,PRY,gdp growth,2016,4.26802583314583,4.3,4.3,0.0,match
+PRY|gdp growth|2017,PRY,gdp growth,2017,4.81007885554041,4.8,4.8,0.0,match
+PRY|gdp growth|2018,PRY,gdp growth,2018,3.20425034076639,3.2,3.2,0.0,match
+PRY|gdp growth|2019,PRY,gdp growth,2019,-0.40185510068001,-0.4,-0.4,0.0,match
+PRY|gdp growth|2020,PRY,gdp growth,2020,-0.819785390971916,-0.8,-0.8,0.0,match
+PRY|gdp growth|2021,PRY,gdp growth,2021,3.99461510731535,4,4.0,0.0,match
+PRY|gdp growth|2022,PRY,gdp growth,2022,-0.0280771723899278,0,0.0,0.0,match
+PRY|gdp growth|2023,PRY,gdp growth,2023,5.28584584975323,5.3,5.3,0.0,match
+PRY|gdp growth|2024,PRY,gdp growth,2024,4.66914577981763,4.7,4.7,0.0,match
+PRY|inflation|2010,PRY,inflation,2010,4.65116279069764,4.6,4.7,0.1,match
+PRY|inflation|2011,PRY,inflation,2011,8.2539682539683,8.2,8.3,0.1,match
+PRY|inflation|2012,PRY,inflation,2012,3.67591897974495,3.7,3.7,0.0,match
+PRY|inflation|2013,PRY,inflation,2013,2.68385738718582,2.7,2.7,0.0,match
+PRY|inflation|2014,PRY,inflation,2014,5.02882767456766,5,5.0,0.0,match
+PRY|inflation|2015,PRY,inflation,2015,3.12900274473925,3.1,3.1,0.0,match
+PRY|inflation|2016,PRY,inflation,2016,4.08682280577241,4.1,4.1,0.0,match
+PRY|inflation|2017,PRY,inflation,2017,3.60247741348942,3.6,3.6,0.0,match
+PRY|inflation|2018,PRY,inflation,2018,3.97561015740693,4,4.0,0.0,match
+PRY|inflation|2019,PRY,inflation,2019,2.75709727562774,2.8,2.8,0.0,match
+PRY|inflation|2020,PRY,inflation,2020,1.76751592356698,1.8,1.8,0.0,match
+PRY|inflation|2021,PRY,inflation,2021,4.78798310123599,4.8,4.8,0.0,match
+PRY|inflation|2022,PRY,inflation,2022,9.76556667164402,9.8,9.8,0.0,match
+PRY|inflation|2023,PRY,inflation,2023,4.63202285403355,4.6,4.6,0.0,match
+PRY|inflation|2024,PRY,inflation,2024,3.83540271728532,3.8,3.8,0.0,match
+QAT|gdp growth|2010,QAT,gdp growth,2010,16.7315558489187,17.7,16.7,-1.0,mismatch
+QAT|gdp growth|2011,QAT,gdp growth,2011,13.0214050496923,11.3,13.0,1.7,mismatch
+QAT|gdp growth|2012,QAT,gdp growth,2012,4.62623675511804,4.7,4.6,-0.1,match
+QAT|gdp growth|2013,QAT,gdp growth,2013,4.43070196521455,5.6,4.4,-1.2,mismatch
+QAT|gdp growth|2014,QAT,gdp growth,2014,4.11911527912761,5.3,4.1,-1.2,mismatch
+QAT|gdp growth|2015,QAT,gdp growth,2015,4.75334572438737,4.8,4.8,0.0,match
+QAT|gdp growth|2016,QAT,gdp growth,2016,3.06419188430156,3.1,3.1,0.0,match
+QAT|gdp growth|2017,QAT,gdp growth,2017,-1.49760470227838,-1.5,-1.5,0.0,match
+QAT|gdp growth|2018,QAT,gdp growth,2018,1.23487220191065,1.2,1.2,0.0,match
+QAT|gdp growth|2019,QAT,gdp growth,2019,0.688240954592672,0.7,0.7,0.0,match
+QAT|gdp growth|2020,QAT,gdp growth,2020,-3.5576039896784,-2.7,-3.6,-0.9,mismatch
+QAT|gdp growth|2021,QAT,gdp growth,2021,1.62684671918775,1.7,1.6,-0.1,match
+QAT|gdp growth|2022,QAT,gdp growth,2022,4.18500970982862,4.2,4.2,0.0,match
+QAT|gdp growth|2023,QAT,gdp growth,2023,1.18715991623776,1.5,1.2,-0.3,match
+QAT|gdp growth|2024,QAT,gdp growth,2024,3.10963283242745,2.9,3.1,0.2,match
+QAT|inflation|2010,QAT,inflation,2010,-2.42525675161713,-2.4,-2.4,0.0,match
+QAT|inflation|2011,QAT,inflation,2011,1.13836623529202,2,1.1,-0.9,mismatch
+QAT|inflation|2012,QAT,inflation,2012,2.31534853431661,1.8,2.3,0.5,match
+QAT|inflation|2013,QAT,inflation,2013,3.22197756829293,3.1,3.2,0.1,match
+QAT|inflation|2014,QAT,inflation,2014,3.34972085659523,4.2,3.3,-0.9,mismatch
+QAT|inflation|2015,QAT,inflation,2015,1.8140772393776,0.9,1.8,0.9,mismatch
+QAT|inflation|2016,QAT,inflation,2016,2.67659170098189,2.7,2.7,0.0,match
+QAT|inflation|2017,QAT,inflation,2017,0.394878914083005,0.6,0.4,-0.2,match
+QAT|inflation|2018,QAT,inflation,2018,0.255815382724408,0.1,0.3,0.2,match
+QAT|inflation|2019,QAT,inflation,2019,-0.666641124861147,-0.9,-0.7,0.2,match
+QAT|inflation|2020,QAT,inflation,2020,-2.54031503004759,-2.5,-2.5,0.0,match
+QAT|inflation|2021,QAT,inflation,2021,2.30446565742003,2.3,2.3,0.0,match
+QAT|inflation|2022,QAT,inflation,2022,4.9952755374076,5,5.0,0.0,match
+QAT|inflation|2023,QAT,inflation,2023,3.02764899198901,3.1,3.0,-0.1,match
+QAT|inflation|2024,QAT,inflation,2024,1.26734310292375,1.2,1.3,0.1,match
+ROU|gdp growth|2010,ROU,gdp growth,2010,-3.90581157302972,-3.9,-3.9,0.0,match
+ROU|gdp growth|2011,ROU,gdp growth,2011,4.49558909946313,4.5,4.5,0.0,match
+ROU|gdp growth|2012,ROU,gdp growth,2012,1.90361696799603,1.9,1.9,0.0,match
+ROU|gdp growth|2013,ROU,gdp growth,2013,0.278771877470234,0.3,0.3,0.0,match
+ROU|gdp growth|2014,ROU,gdp growth,2014,4.11600109267832,4.1,4.1,0.0,match
+ROU|gdp growth|2015,ROU,gdp growth,2015,3.1570360543854,3.2,3.2,0.0,match
+ROU|gdp growth|2016,ROU,gdp growth,2016,2.85993252302089,2.9,2.9,0.0,match
+ROU|gdp growth|2017,ROU,gdp growth,2017,8.19547826641261,8.2,8.2,0.0,match
+ROU|gdp growth|2018,ROU,gdp growth,2018,5.39452228185675,5.4,5.4,0.0,match
+ROU|gdp growth|2019,ROU,gdp growth,2019,3.96028958497598,4,4.0,0.0,match
+ROU|gdp growth|2020,ROU,gdp growth,2020,-3.59802546034757,-3.6,-3.6,0.0,match
+ROU|gdp growth|2021,ROU,gdp growth,2021,5.58735072538869,5.6,5.6,0.0,match
+ROU|gdp growth|2022,ROU,gdp growth,2022,4.18771305104109,4.2,4.2,0.0,match
+ROU|gdp growth|2023,ROU,gdp growth,2023,2.25773416555121,2.3,2.3,0.0,match
+ROU|gdp growth|2024,ROU,gdp growth,2024,0.916003764382594,0.9,0.9,0.0,match
+ROU|inflation|2010,ROU,inflation,2010,6.09141668601891,6.1,6.1,0.0,match
+ROU|inflation|2011,ROU,inflation,2011,5.7892532881588,5.8,5.8,0.0,match
+ROU|inflation|2012,ROU,inflation,2012,3.33492267693442,3.3,3.3,0.0,match
+ROU|inflation|2013,ROU,inflation,2013,3.98471235548129,4,4.0,0.0,match
+ROU|inflation|2014,ROU,inflation,2014,1.06830987684298,1.1,1.1,0.0,match
+ROU|inflation|2015,ROU,inflation,2015,-0.594156437495203,-0.6,-0.6,0.0,match
+ROU|inflation|2016,ROU,inflation,2016,-1.54479666813896,-1.6,-1.5,0.1,match
+ROU|inflation|2017,ROU,inflation,2017,1.3390212110439,1.3,1.3,0.0,match
+ROU|inflation|2018,ROU,inflation,2018,4.62548443137778,4.6,4.6,0.0,match
+ROU|inflation|2019,ROU,inflation,2019,3.82785432599437,3.8,3.8,0.0,match
+ROU|inflation|2020,ROU,inflation,2020,2.63107311184742,2.6,2.6,0.0,match
+ROU|inflation|2021,ROU,inflation,2021,5.05232876096582,5,5.1,0.1,match
+ROU|inflation|2022,ROU,inflation,2022,13.795488743252,13.8,13.8,0.0,match
+ROU|inflation|2023,ROU,inflation,2023,10.3971874764995,10.4,10.4,0.0,match
+ROU|inflation|2024,ROU,inflation,2024,5.72140574354438,5.6,5.7,0.1,match
+SRB|gdp growth|2010,SRB,gdp growth,2010,1.61097281449412,1.6,1.6,0.0,match
+SRB|gdp growth|2011,SRB,gdp growth,2011,0.0542724836581954,0.1,0.1,0.0,match
+SRB|gdp growth|2012,SRB,gdp growth,2012,-0.443956070983248,-0.4,-0.4,0.0,match
+SRB|gdp growth|2013,SRB,gdp growth,2013,0.451578805330726,0.5,0.5,0.0,match
+SRB|gdp growth|2014,SRB,gdp growth,2014,-1.80427041681132,-1.8,-1.8,0.0,match
+SRB|gdp growth|2015,SRB,gdp growth,2015,1.2957386351958,1.3,1.3,0.0,match
+SRB|gdp growth|2016,SRB,gdp growth,2016,2.97519807160826,3,3.0,0.0,match
+SRB|gdp growth|2017,SRB,gdp growth,2017,2.3634031250553,2.4,2.4,0.0,match
+SRB|gdp growth|2018,SRB,gdp growth,2018,4.64935035491007,4.6,4.6,0.0,match
+SRB|gdp growth|2019,SRB,gdp growth,2019,4.75020793899014,4.8,4.8,0.0,match
+SRB|gdp growth|2020,SRB,gdp growth,2020,-0.950023991851594,-1,-1.0,0.0,match
+SRB|gdp growth|2021,SRB,gdp growth,2021,7.94905650472278,7.9,7.9,0.0,match
+SRB|gdp growth|2022,SRB,gdp growth,2022,2.70347705543654,2.7,2.7,0.0,match
+SRB|gdp growth|2023,SRB,gdp growth,2023,3.74793303561771,3.7,3.7,0.0,match
+SRB|gdp growth|2024,SRB,gdp growth,2024,3.94992622592932,3.9,3.9,0.0,match
+SRB|inflation|2010,SRB,inflation,2010,6.14255360247248,6.1,6.1,0.0,match
+SRB|inflation|2011,SRB,inflation,2011,11.1373976342129,11.1,11.1,0.0,match
+SRB|inflation|2012,SRB,inflation,2012,7.33038589596645,7.3,7.3,0.0,match
+SRB|inflation|2013,SRB,inflation,2013,7.69426362896655,7.7,7.7,0.0,match
+SRB|inflation|2014,SRB,inflation,2014,2.08244793880153,2.2,2.1,-0.1,match
+SRB|inflation|2015,SRB,inflation,2015,1.39235822000186,1.4,1.4,0.0,match
+SRB|inflation|2016,SRB,inflation,2016,1.12231397417769,1.1,1.1,0.0,match
+SRB|inflation|2017,SRB,inflation,2017,3.13106248590115,3.2,3.1,-0.1,match
+SRB|inflation|2018,SRB,inflation,2018,1.959840762938,2,2.0,0.0,match
+SRB|inflation|2019,SRB,inflation,2019,1.84922984511086,1.9,1.8,-0.1,match
+SRB|inflation|2020,SRB,inflation,2020,1.57553290083414,1.5,1.6,0.1,match
+SRB|inflation|2021,SRB,inflation,2021,4.08510285335102,4.1,4.1,0.0,match
+SRB|inflation|2022,SRB,inflation,2022,11.9815117344702,12,12.0,0.0,match
+SRB|inflation|2023,SRB,inflation,2023,12.3719043552519,12.4,12.4,0.0,match
+SRB|inflation|2024,SRB,inflation,2024,4.6705297488997,4.7,4.7,0.0,match
+SVK|gdp growth|2010,SVK,gdp growth,2010,6.79058159142423,6.8,6.8,0.0,match
+SVK|gdp growth|2011,SVK,gdp growth,2011,2.56242473215553,2.6,2.6,0.0,match
+SVK|gdp growth|2012,SVK,gdp growth,2012,1.56917104702706,1.6,1.6,0.0,match
+SVK|gdp growth|2013,SVK,gdp growth,2013,0.703323545247201,0.7,0.7,0.0,match
+SVK|gdp growth|2014,SVK,gdp growth,2014,2.70795151449488,2.7,2.7,0.0,match
+SVK|gdp growth|2015,SVK,gdp growth,2015,5.17687909722133,5.2,5.2,0.0,match
+SVK|gdp growth|2016,SVK,gdp growth,2016,1.94781841524558,1.9,1.9,0.0,match
+SVK|gdp growth|2017,SVK,gdp growth,2017,2.87473327453695,2.9,2.9,0.0,match
+SVK|gdp growth|2018,SVK,gdp growth,2018,4.06211981896483,4.1,4.1,0.0,match
+SVK|gdp growth|2019,SVK,gdp growth,2019,2.27589910019393,2.3,2.3,0.0,match
+SVK|gdp growth|2020,SVK,gdp growth,2020,-2.58551241733207,-2.6,-2.6,0.0,match
+SVK|gdp growth|2021,SVK,gdp growth,2021,5.6558588065555,5.7,5.7,0.0,match
+SVK|gdp growth|2022,SVK,gdp growth,2022,0.544591632137454,0.5,0.5,0.0,match
+SVK|gdp growth|2023,SVK,gdp growth,2023,2.11263633214959,2.1,2.1,0.0,match
+SVK|gdp growth|2024,SVK,gdp growth,2024,1.93867445549446,1.9,1.9,0.0,match
+SVK|inflation|2010,SVK,inflation,2010,0.957018132975173,0.7,1.0,0.3,match
+SVK|inflation|2011,SVK,inflation,2011,3.91928599146291,4.1,3.9,-0.2,match
+SVK|inflation|2012,SVK,inflation,2012,3.60610263522889,3.7,3.6,-0.1,match
+SVK|inflation|2013,SVK,inflation,2013,1.40047368963025,1.5,1.4,-0.1,match
+SVK|inflation|2014,SVK,inflation,2014,-0.076165329541987,-0.1,-0.1,0.0,match
+SVK|inflation|2015,SVK,inflation,2015,-0.325219777427765,-0.3,-0.3,0.0,match
+SVK|inflation|2016,SVK,inflation,2016,-0.520010196278358,-0.5,-0.5,0.0,match
+SVK|inflation|2017,SVK,inflation,2017,1.31194588223246,1.4,1.3,-0.1,match
+SVK|inflation|2018,SVK,inflation,2018,2.51403712883802,2.5,2.5,0.0,match
+SVK|inflation|2019,SVK,inflation,2019,2.6645613342544,2.8,2.7,-0.1,match
+SVK|inflation|2020,SVK,inflation,2020,1.93694126694222,2,1.9,-0.1,match
+SVK|inflation|2021,SVK,inflation,2021,3.14960629921259,2.8,3.1,0.3,match
+SVK|inflation|2022,SVK,inflation,2022,12.774146363761,12.1,12.8,0.7,mismatch
+SVK|inflation|2023,SVK,inflation,2023,10.5319476645211,11,10.5,-0.5,match
+SVK|inflation|2024,SVK,inflation,2024,2.75760909424278,3.2,2.8,-0.4,match
+SVN|gdp growth|2010,SVN,gdp growth,2010,1.11213719306735,1.1,1.1,0.0,match
+SVN|gdp growth|2011,SVN,gdp growth,2011,0.655438128379743,0.7,0.7,0.0,match
+SVN|gdp growth|2012,SVN,gdp growth,2012,-2.91553782040462,-2.9,-2.9,0.0,match
+SVN|gdp growth|2013,SVN,gdp growth,2013,-0.823776417691676,-0.8,-0.8,0.0,match
+SVN|gdp growth|2014,SVN,gdp growth,2014,2.76283327639742,2.8,2.8,0.0,match
+SVN|gdp growth|2015,SVN,gdp growth,2015,2.39330621338168,2.4,2.4,0.0,match
+SVN|gdp growth|2016,SVN,gdp growth,2016,3.03441486663654,3,3.0,0.0,match
+SVN|gdp growth|2017,SVN,gdp growth,2017,5.17440215579958,5.2,5.2,0.0,match
+SVN|gdp growth|2018,SVN,gdp growth,2018,4.37908347331195,4.4,4.4,0.0,match
+SVN|gdp growth|2019,SVN,gdp growth,2019,3.50525332381912,3.5,3.5,0.0,match
+SVN|gdp growth|2020,SVN,gdp growth,2020,-4.08500094942896,-4.1,-4.1,0.0,match
+SVN|gdp growth|2021,SVN,gdp growth,2021,8.41686457725321,8.4,8.4,0.0,match
+SVN|gdp growth|2022,SVN,gdp growth,2022,2.66850555542486,2.6,2.7,0.1,match
+SVN|gdp growth|2023,SVN,gdp growth,2023,2.3758326648385,2.6,2.4,-0.2,match
+SVN|gdp growth|2024,SVN,gdp growth,2024,1.73139722479493,2,1.7,-0.3,match
+SVN|inflation|2010,SVN,inflation,2010,1.79686310339571,2.1,1.8,-0.3,match
+SVN|inflation|2011,SVN,inflation,2011,1.8054197111789,2.1,1.8,-0.3,match
+SVN|inflation|2012,SVN,inflation,2012,2.59737323959585,2.8,2.6,-0.2,match
+SVN|inflation|2013,SVN,inflation,2013,1.76816639492352,1.9,1.8,-0.1,match
+SVN|inflation|2014,SVN,inflation,2014,0.1981012589714,0.4,0.2,-0.2,match
+SVN|inflation|2015,SVN,inflation,2015,-0.526145203111483,-0.8,-0.5,0.3,match
+SVN|inflation|2016,SVN,inflation,2016,-0.0510464522715298,-0.2,-0.1,0.1,match
+SVN|inflation|2017,SVN,inflation,2017,1.42677069523826,1.6,1.4,-0.2,match
+SVN|inflation|2018,SVN,inflation,2018,1.73668027298334,1.9,1.7,-0.2,match
+SVN|inflation|2019,SVN,inflation,2019,1.63437236731259,1.7,1.6,-0.1,match
+SVN|inflation|2020,SVN,inflation,2020,-0.0549154509283246,-0.3,-0.1,0.2,match
+SVN|inflation|2021,SVN,inflation,2021,1.91687660042081,2,1.9,-0.1,match
+SVN|inflation|2022,SVN,inflation,2022,8.83346218008716,9.3,8.8,-0.5,match
+SVN|inflation|2023,SVN,inflation,2023,7.44541647973679,7.2,7.4,0.2,match
+SVN|inflation|2024,SVN,inflation,2024,1.96593538509715,2,2.0,0.0,match
+TUN|gdp growth|2010,TUN,gdp growth,2010,2.97113275066512,3.5,3.0,-0.5,match
+TUN|gdp growth|2011,TUN,gdp growth,2011,-2.04663389535644,-2,-2.0,0.0,match
+TUN|gdp growth|2012,TUN,gdp growth,2012,4.21667711535632,4.2,4.2,0.0,match
+TUN|gdp growth|2013,TUN,gdp growth,2013,2.42993096446429,2.4,2.4,0.0,match
+TUN|gdp growth|2014,TUN,gdp growth,2014,3.09032803070775,3.1,3.1,0.0,match
+TUN|gdp growth|2015,TUN,gdp growth,2015,0.967834205635981,1,1.0,0.0,match
+TUN|gdp growth|2016,TUN,gdp growth,2016,1.117231963992,1.1,1.1,0.0,match
+TUN|gdp growth|2017,TUN,gdp growth,2017,2.25261437620587,2.3,2.3,0.0,match
+TUN|gdp growth|2018,TUN,gdp growth,2018,2.60696965356362,2.6,2.6,0.0,match
+TUN|gdp growth|2019,TUN,gdp growth,2019,1.55009304966742,1.6,1.6,0.0,match
+TUN|gdp growth|2020,TUN,gdp growth,2020,-8.97512622934723,-9,-9.0,0.0,match
+TUN|gdp growth|2021,TUN,gdp growth,2021,4.73603648206102,4.7,4.7,0.0,match
+TUN|gdp growth|2022,TUN,gdp growth,2022,2.75228761004381,2.7,2.8,0.1,match
+TUN|gdp growth|2023,TUN,gdp growth,2023,0.184015548469745,0.3,0.2,-0.1,match
+TUN|gdp growth|2024,TUN,gdp growth,2024,1.61444564976986,1.7,1.6,-0.1,match
+TUN|inflation|2010,TUN,inflation,2010,3.33897963601068,4.4,3.3,-1.1,mismatch
+TUN|inflation|2011,TUN,inflation,2011,3.24002842009531,3.2,3.2,0.0,match
+TUN|inflation|2012,TUN,inflation,2012,4.61184432206639,4.6,4.6,0.0,match
+TUN|inflation|2013,TUN,inflation,2013,5.31623531326688,5.4,5.3,-0.1,match
+TUN|inflation|2014,TUN,inflation,2014,4.6255509953403,4.6,4.6,0.0,match
+TUN|inflation|2015,TUN,inflation,2015,4.437371273215,4.4,4.4,0.0,match
+TUN|inflation|2016,TUN,inflation,2016,3.6293993738438,3.6,3.6,0.0,match
+TUN|inflation|2017,TUN,inflation,2017,5.30884839565844,5.3,5.3,0.0,match
+TUN|inflation|2018,TUN,inflation,2018,7.30759176031651,7.3,7.3,0.0,match
+TUN|inflation|2019,TUN,inflation,2019,6.72007532863799,6.7,6.7,0.0,match
+TUN|inflation|2020,TUN,inflation,2020,5.63415115897624,5.6,5.6,0.0,match
+TUN|inflation|2021,TUN,inflation,2021,5.706350208307,5.7,5.7,0.0,match
+TUN|inflation|2022,TUN,inflation,2022,8.30646124447623,8.3,8.3,0.0,match
+TUN|inflation|2023,TUN,inflation,2023,9.32899597507865,9.3,9.3,0.0,match
+TUN|inflation|2024,TUN,inflation,2024,7.20661657168793,7,7.2,0.2,match
+TZA|gdp growth|2010,TZA,gdp growth,2010,6.33652342666889,6.4,6.3,-0.1,match
+TZA|gdp growth|2011,TZA,gdp growth,2011,7.67215543486064,7.9,7.7,-0.2,match
+TZA|gdp growth|2012,TZA,gdp growth,2012,4.50015356010131,5.1,4.5,-0.6,mismatch
+TZA|gdp growth|2013,TZA,gdp growth,2013,6.78158560065316,6.8,6.8,0.0,match
+TZA|gdp growth|2014,TZA,gdp growth,2014,6.73246186832483,6.7,6.7,0.0,match
+TZA|gdp growth|2015,TZA,gdp growth,2015,6.16062877406682,6.2,6.2,0.0,match
+TZA|gdp growth|2016,TZA,gdp growth,2016,6.86711619644551,6.9,6.9,0.0,match
+TZA|gdp growth|2017,TZA,gdp growth,2017,6.72726996832438,6.7,6.7,0.0,match
+TZA|gdp growth|2018,TZA,gdp growth,2018,5.50267599384966,7,5.5,-1.5,mismatch
+TZA|gdp growth|2019,TZA,gdp growth,2019,5.79999999996723,6.9,5.8,-1.1,mismatch
+TZA|gdp growth|2020,TZA,gdp growth,2020,1.99196460647855,4.5,2.0,-2.5,mismatch
+TZA|gdp growth|2021,TZA,gdp growth,2021,4.32138429480482,4.8,4.3,-0.5,match
+TZA|gdp growth|2022,TZA,gdp growth,2022,4.56600576430955,4.7,4.6,-0.1,match
+TZA|gdp growth|2023,TZA,gdp growth,2023,5.06952353203394,5.1,5.1,0.0,match
+TZA|gdp growth|2024,TZA,gdp growth,2024,5.5263138305945,5.5,5.5,0.0,match
+TZA|inflation|2010,TZA,inflation,2010,6.20015595647402,7.2,6.2,-1.0,mismatch
+TZA|inflation|2011,TZA,inflation,2011,12.6909694699162,12.7,12.7,0.0,match
+TZA|inflation|2012,TZA,inflation,2012,16.0010938506338,16,16.0,0.0,match
+TZA|inflation|2013,TZA,inflation,2013,7.87072364573958,7.9,7.9,0.0,match
+TZA|inflation|2014,TZA,inflation,2014,6.13161432988011,6.1,6.1,0.0,match
+TZA|inflation|2015,TZA,inflation,2015,5.58816952959298,5.6,5.6,0.0,match
+TZA|inflation|2016,TZA,inflation,2016,5.17476629301493,5.2,5.2,0.0,match
+TZA|inflation|2017,TZA,inflation,2017,5.3187160522893,5.3,5.3,0.0,match
+TZA|inflation|2018,TZA,inflation,2018,3.49445848856181,3.5,3.5,0.0,match
+TZA|inflation|2019,TZA,inflation,2019,3.4642805799902,3.4,3.5,0.1,match
+TZA|inflation|2020,TZA,inflation,2020,3.29029062798325,3.3,3.3,0.0,match
+TZA|inflation|2021,TZA,inflation,2021,3.69091958802198,3.7,3.7,0.0,match
+TZA|inflation|2022,TZA,inflation,2022,4.35027204269101,4.4,4.4,0.0,match
+TZA|inflation|2023,TZA,inflation,2023,3.79923291384916,3.8,3.8,0.0,match
+TZA|inflation|2024,TZA,inflation,2024,3.05694676312372,3.1,3.1,0.0,match
+UGA|gdp growth|2010,UGA,gdp growth,2010,5.63761163749757,7.5,5.6,-1.9,mismatch
+UGA|gdp growth|2011,UGA,gdp growth,2011,9.3916554927176,7.7,9.4,1.7,mismatch
+UGA|gdp growth|2012,UGA,gdp growth,2012,3.83745560605229,2.3,3.8,1.5,mismatch
+UGA|gdp growth|2013,UGA,gdp growth,2013,3.58690582623025,3.9,3.6,-0.3,match
+UGA|gdp growth|2014,UGA,gdp growth,2014,5.10630732539796,5.7,5.1,-0.6,mismatch
+UGA|gdp growth|2015,UGA,gdp growth,2015,5.18785986002466,8,5.2,-2.8,mismatch
+UGA|gdp growth|2016,UGA,gdp growth,2016,4.78100029254482,0.2,4.8,4.6,mismatch
+UGA|gdp growth|2017,UGA,gdp growth,2017,3.13140551723596,6.8,3.1,-3.7,mismatch
+UGA|gdp growth|2018,UGA,gdp growth,2018,6.30392378262997,5.6,6.3,0.7,mismatch
+UGA|gdp growth|2019,UGA,gdp growth,2019,6.43874503276439,7.6,6.4,-1.2,mismatch
+UGA|gdp growth|2020,UGA,gdp growth,2020,2.95130642218098,-1.2,3.0,4.2,mismatch
+UGA|gdp growth|2021,UGA,gdp growth,2021,3.53658034070898,5.5,3.5,-2.0,mismatch
+UGA|gdp growth|2022,UGA,gdp growth,2022,4.58802192181773,6.2,4.6,-1.6,mismatch
+UGA|gdp growth|2023,UGA,gdp growth,2023,5.33697295511469,5,5.3,0.3,match
+UGA|gdp growth|2024,UGA,gdp growth,2024,6.05558075875589,6,6.1,0.1,match
+UGA|inflation|2010,UGA,inflation,2010,3.97655288478168,4,4.0,0.0,match
+UGA|inflation|2011,UGA,inflation,2011,16.5643496174515,18.7,16.6,-2.1,mismatch
+UGA|inflation|2012,UGA,inflation,2012,12.6790377224658,14,12.7,-1.3,mismatch
+UGA|inflation|2013,UGA,inflation,2013,4.90520875694556,5.5,4.9,-0.6,mismatch
+UGA|inflation|2014,UGA,inflation,2014,3.07570668958641,4.3,3.1,-1.2,mismatch
+UGA|inflation|2015,UGA,inflation,2015,5.58968606251725,3.7,5.6,1.9,mismatch
+UGA|inflation|2016,UGA,inflation,2016,5.70637504616212,5.2,5.7,0.5,match
+UGA|inflation|2017,UGA,inflation,2017,5.20971705914209,5.6,5.2,-0.4,match
+UGA|inflation|2018,UGA,inflation,2018,2.61601190952274,2.5,2.6,0.1,match
+UGA|inflation|2019,UGA,inflation,2019,2.86758803446899,2.1,2.9,0.8,mismatch
+UGA|inflation|2020,UGA,inflation,2020,3.31332289544501,2.8,3.3,0.5,match
+UGA|inflation|2021,UGA,inflation,2021,2.20457204757413,2.2,2.2,0.0,match
+UGA|inflation|2022,UGA,inflation,2022,7.1957888597581,7.2,7.2,0.0,match
+UGA|inflation|2023,UGA,inflation,2023,5.35094804280395,5.4,5.4,0.0,match
+UGA|inflation|2024,UGA,inflation,2024,3.32338033691818,3.3,3.3,0.0,match
+UKR|gdp growth|2010,UKR,gdp growth,2010,4.09200436668087,4.1,4.1,0.0,match
+UKR|gdp growth|2011,UKR,gdp growth,2011,5.44528081048476,5.4,5.4,0.0,match
+UKR|gdp growth|2012,UKR,gdp growth,2012,0.152314967200653,0.2,0.2,0.0,match
+UKR|gdp growth|2013,UKR,gdp growth,2013,0.045439094492707,0,0.0,0.0,match
+UKR|gdp growth|2014,UKR,gdp growth,2014,-10.0788949840953,-10,-10.1,-0.1,match
+UKR|gdp growth|2015,UKR,gdp growth,2015,-9.7729872128676,-9.8,-9.8,0.0,match
+UKR|gdp growth|2016,UKR,gdp growth,2016,2.44098194492067,2.4,2.4,0.0,match
+UKR|gdp growth|2017,UKR,gdp growth,2017,2.35997228099491,2.4,2.4,0.0,match
+UKR|gdp growth|2018,UKR,gdp growth,2018,3.48836234022659,3.5,3.5,0.0,match
+UKR|gdp growth|2019,UKR,gdp growth,2019,3.19950386354134,3.2,3.2,0.0,match
+UKR|gdp growth|2020,UKR,gdp growth,2020,-3.75281793983162,-3.8,-3.8,0.0,match
+UKR|gdp growth|2021,UKR,gdp growth,2021,3.44562065945944,3.4,3.4,0.0,match
+UKR|gdp growth|2022,UKR,gdp growth,2022,-28.7585842155085,-28.8,-28.8,0.0,match
+UKR|gdp growth|2023,UKR,gdp growth,2023,5.53473354963334,5.5,5.5,0.0,match
+UKR|gdp growth|2024,UKR,gdp growth,2024,3.24811808426423,3.2,3.2,0.0,match
+UKR|inflation|2010,UKR,inflation,2010,9.37293105078978,9.4,9.4,0.0,match
+UKR|inflation|2011,UKR,inflation,2011,7.95572466274652,8,8.0,0.0,match
+UKR|inflation|2012,UKR,inflation,2012,0.568727971803862,0.6,0.6,0.0,match
+UKR|inflation|2013,UKR,inflation,2013,-0.238948626045406,-0.3,-0.2,0.1,match
+UKR|inflation|2014,UKR,inflation,2014,12.0718562874251,12.1,12.1,0.0,match
+UKR|inflation|2015,UKR,inflation,2015,48.6998646434423,48.7,48.7,0.0,match
+UKR|inflation|2016,UKR,inflation,2016,13.9127101997796,13.9,13.9,0.0,match
+UKR|inflation|2017,UKR,inflation,2017,14.4383227488749,14.4,14.4,0.0,match
+UKR|inflation|2018,UKR,inflation,2018,10.9518559353178,10.9,11.0,0.1,match
+UKR|inflation|2019,UKR,inflation,2019,7.88671745611133,7.9,7.9,0.0,match
+UKR|inflation|2020,UKR,inflation,2020,2.73249209419427,2.7,2.7,0.0,match
+UKR|inflation|2021,UKR,inflation,2021,9.36313917695223,9.4,9.4,0.0,match
+UKR|inflation|2022,UKR,inflation,2022,20.1836366617478,20.2,20.2,0.0,match
+UKR|inflation|2023,UKR,inflation,2023,12.8490222828558,12.9,12.8,-0.1,match
+UKR|inflation|2024,UKR,inflation,2024,6.50198464669254,6.5,6.5,0.0,match
+URY|gdp growth|2010,URY,gdp growth,2010,7.8034096507169,7.8,7.8,0.0,match
+URY|gdp growth|2011,URY,gdp growth,2011,5.16213302463606,5.2,5.2,0.0,match
+URY|gdp growth|2012,URY,gdp growth,2012,3.53817872056869,3.5,3.5,0.0,match
+URY|gdp growth|2013,URY,gdp growth,2013,4.63753862902416,4.6,4.6,0.0,match
+URY|gdp growth|2014,URY,gdp growth,2014,3.23879122952364,3.2,3.2,0.0,match
+URY|gdp growth|2015,URY,gdp growth,2015,0.370741257681345,0.4,0.4,0.0,match
+URY|gdp growth|2016,URY,gdp growth,2016,1.68979822971775,1.7,1.7,0.0,match
+URY|gdp growth|2017,URY,gdp growth,2017,1.74037649141989,1.7,1.7,0.0,match
+URY|gdp growth|2018,URY,gdp growth,2018,0.164777608846705,0.2,0.2,0.0,match
+URY|gdp growth|2019,URY,gdp growth,2019,0.928351027546341,0.9,0.9,0.0,match
+URY|gdp growth|2020,URY,gdp growth,2020,-7.35732706897301,-7.4,-7.4,0.0,match
+URY|gdp growth|2021,URY,gdp growth,2021,5.84427325018082,5.8,5.8,0.0,match
+URY|gdp growth|2022,URY,gdp growth,2022,4.60623000920732,4.6,4.6,0.0,match
+URY|gdp growth|2023,URY,gdp growth,2023,0.761749241321681,0.8,0.8,0.0,match
+URY|gdp growth|2024,URY,gdp growth,2024,3.32575905957381,3.3,3.3,0.0,match
+URY|inflation|2010,URY,inflation,2010,6.69870886978132,6.7,6.7,0.0,match
+URY|inflation|2011,URY,inflation,2011,8.0928320630299,8.1,8.1,0.0,match
+URY|inflation|2012,URY,inflation,2012,8.09776580573602,8.1,8.1,0.0,match
+URY|inflation|2013,URY,inflation,2013,8.57513504005397,8.6,8.6,0.0,match
+URY|inflation|2014,URY,inflation,2014,8.87735333229827,8.9,8.9,0.0,match
+URY|inflation|2015,URY,inflation,2015,8.66626987079328,8.7,8.7,0.0,match
+URY|inflation|2016,URY,inflation,2016,9.63941347635079,9.6,9.6,0.0,match
+URY|inflation|2017,URY,inflation,2017,6.2180938256186,6.2,6.2,0.0,match
+URY|inflation|2018,URY,inflation,2018,7.60653360377047,7.6,7.6,0.0,match
+URY|inflation|2019,URY,inflation,2019,7.88198870879619,7.9,7.9,0.0,match
+URY|inflation|2020,URY,inflation,2020,9.75640636078194,9.8,9.8,0.0,match
+URY|inflation|2021,URY,inflation,2021,7.74791402314762,7.7,7.7,0.0,match
+URY|inflation|2022,URY,inflation,2022,9.10437983075436,9.1,9.1,0.0,match
+URY|inflation|2023,URY,inflation,2023,5.86910359896119,5.9,5.9,0.0,match
+URY|inflation|2024,URY,inflation,2024,4.84914366613155,4.8,4.8,0.0,match
+ZMB|gdp growth|2010,ZMB,gdp growth,2010,10.2982233241213,10.3,10.3,0.0,match
+ZMB|gdp growth|2011,ZMB,gdp growth,2011,5.56925219263019,5.6,5.6,0.0,match
+ZMB|gdp growth|2012,ZMB,gdp growth,2012,7.59738104901994,7.6,7.6,0.0,match
+ZMB|gdp growth|2013,ZMB,gdp growth,2013,5.05753695047252,5.1,5.1,0.0,match
+ZMB|gdp growth|2014,ZMB,gdp growth,2014,4.69328316376705,4.7,4.7,0.0,match
+ZMB|gdp growth|2015,ZMB,gdp growth,2015,2.92037511217961,2.9,2.9,0.0,match
+ZMB|gdp growth|2016,ZMB,gdp growth,2016,3.75510031678988,3.8,3.8,0.0,match
+ZMB|gdp growth|2017,ZMB,gdp growth,2017,3.52586277149926,3.5,3.5,0.0,match
+ZMB|gdp growth|2018,ZMB,gdp growth,2018,4.03449389667165,4,4.0,0.0,match
+ZMB|gdp growth|2019,ZMB,gdp growth,2019,1.44130602603785,1.4,1.4,0.0,match
+ZMB|gdp growth|2020,ZMB,gdp growth,2020,-2.78505506545167,-2.8,-2.8,0.0,match
+ZMB|gdp growth|2021,ZMB,gdp growth,2021,6.23492204726448,6.2,6.2,0.0,match
+ZMB|gdp growth|2022,ZMB,gdp growth,2022,5.21122360356247,5.2,5.2,0.0,match
+ZMB|gdp growth|2023,ZMB,gdp growth,2023,5.36794285493059,5.4,5.4,0.0,match
+ZMB|gdp growth|2024,ZMB,gdp growth,2024,3.82004825518591,3.8,3.8,0.0,match
+ZMB|inflation|2010,ZMB,inflation,2010,8.50176133365264,8.5,8.5,0.0,match
+ZMB|inflation|2011,ZMB,inflation,2011,6.4293968107234,8.7,6.4,-2.3,mismatch
+ZMB|inflation|2012,ZMB,inflation,2012,6.57589970757697,6.6,6.6,0.0,match
+ZMB|inflation|2013,ZMB,inflation,2013,6.97767605490307,7,7.0,0.0,match
+ZMB|inflation|2014,ZMB,inflation,2014,7.80687553566332,7.8,7.8,0.0,match
+ZMB|inflation|2015,ZMB,inflation,2015,10.1105928909617,10.1,10.1,0.0,match
+ZMB|inflation|2016,ZMB,inflation,2016,17.8697300795267,17.9,17.9,0.0,match
+ZMB|inflation|2017,ZMB,inflation,2017,6.57731154205644,6.6,6.6,0.0,match
+ZMB|inflation|2018,ZMB,inflation,2018,7.4945719272852,7.5,7.5,0.0,match
+ZMB|inflation|2019,ZMB,inflation,2019,9.15031644316295,9.2,9.2,0.0,match
+ZMB|inflation|2020,ZMB,inflation,2020,15.7330604721369,15.7,15.7,0.0,match
+ZMB|inflation|2021,ZMB,inflation,2021,22.0207676245776,22,22.0,0.0,match
+ZMB|inflation|2022,ZMB,inflation,2022,10.9932039209135,11,11.0,0.0,match
+ZMB|inflation|2023,ZMB,inflation,2023,10.884531691282,10.9,10.9,0.0,match
+ZMB|inflation|2024,ZMB,inflation,2024,14.9856262747939,15,15.0,0.0,match
